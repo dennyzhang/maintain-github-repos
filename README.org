@@ -11,7 +11,7 @@ Github Repo: https://github.com/DennyZhang/maintain-github-repos
 *** Projects keep deprecated constantly
 - Sample: https://github.com/freyproject/frey
 - Sample: https://github.com/freyproject
-*** Ownership for contributing other people's projects
+*** TODO [Ownership] How I get credit contributing others' projects
 *** Why you should ask people: "fork me on Github"
 - Sample: https://www.dennyzhang.com/docker_monitor
 - Sample: https://www.dennyzhang.com/help-denny
@@ -44,6 +44,8 @@ Samples: https://github.com/DennyZhang/developer-free-saas
 - Samples: https://github.com/DennyZhang/remote-commands-servers
 **** misc                                                          :noexport:
 https://github.com/yegor256/trac2github
+** Ask People To Take Actions
+*** TODO Add Follow me in README.md
 ** Routine social activities
 *** After helping people, ask them to like/follow your projects
 *** Check With Your Close Tech Friends
@@ -56,13 +58,17 @@ https://github.com/yegor256/trac2github
 - Consulting projects
 - Sponsored posts and affiliate
 - Paid writing for tech worlds
-** Sample Of Popular Projects
+** Role Models Of Github repos
+*** TODO github repo template
+** Type Of Popular Projects
 *** Create github repo for examples
 - Sample: https://github.com/geerlingguy/ansible-vagrant-examples
 - Sample: https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg==
 ** Github & SEO
 *** backlinks from Github help for SEO
 - https://www.quora.com/Do-backlinks-from-Github-help-for-SEO
+** Recommended Books
+- TODO
 ** More Related Readings
 - How To Improve Professional Influence In Linkedin: https://github.com/DennyZhang/linkedin-grow-influence
 - Effectively Technical Writing In GitHub: https://www.dennyzhang.com/github_wiki
@@ -104,3 +110,4 @@ https://www.phodal.com/blog/why-you-should-work-hard-with-github/
 
 这些告诉我们，Github上找一个你擅长的主题，那么会有很多人找上你的。
 #+END_EXAMPLE
+** TODO [#A] google github usage: search open source in stackoverflow
