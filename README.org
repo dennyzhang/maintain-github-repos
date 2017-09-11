@@ -19,7 +19,7 @@ Github Repo: https://github.com/DennyZhang/maintain-github-repos
 ** Make Your Repos More Attractive
 *** Github Project use emoji
 Samples: https://github.com/DennyZhang/developer-free-saas
-*** GitHub Repo add topic: 
+*** GitHub Repo add topic
 Samples: https://github.com/DennyZhang/developer-free-saas
 **** misc                                                          :noexport:
 https://github.com/yegor256/rultor
