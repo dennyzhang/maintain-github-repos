@@ -7,26 +7,27 @@
 <li><a href="#sec-1-1">1.1. OpenSource Problems</a>
 <ul>
 <li><a href="#sec-1-1-1">1.1.1. Most projects will fade out sooner or later</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Very low engagement</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Very low engagement by default</a></li>
 <li><a href="#sec-1-1-3">1.1.3. Projects keep deprecated constantly</a></li>
 <li><a href="#sec-1-1-4">1.1.4. Ownership for contributing other people's projects</a></li>
-<li><a href="#sec-1-1-5">1.1.5. why you should ask people: "fork me on Github"</a></li>
+<li><a href="#sec-1-1-5">1.1.5. Why you should ask people: "fork me on Github"</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. Make Your Repos More Attractive</a>
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. Github Project use emoji</a></li>
-<li><a href="#sec-1-2-2">1.2.2. GitHub Repo add topic:</a></li>
+<li><a href="#sec-1-2-2">1.2.2. GitHub Repo add topic</a></li>
 <li><a href="#sec-1-2-3">1.2.3. Add pinned repository</a></li>
 <li><a href="#sec-1-2-4">1.2.4. Add license to github repos</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. How To Benefit As Opensource Maintainers</a></li>
-<li><a href="#sec-1-4">1.4. Routine social activities</a>
+<li><a href="#sec-1-3">1.3. Routine social activities</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. Check With Your Close Tech Friends</a></li>
+<li><a href="#sec-1-3-1">1.3.1. After helping people, ask them to like/follow your projects</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Check With Your Close Tech Friends</a></li>
 </ul>
 </li>
+<li><a href="#sec-1-4">1.4. How To Benefit As Opensource Maintainers</a></li>
 <li><a href="#sec-1-5">1.5. Sample Of Popular Projects</a>
 <ul>
 <li><a href="#sec-1-5-1">1.5.1. Create github repo for examples</a></li>
@@ -53,7 +54,7 @@ Github Repo: <https://github.com/DennyZhang/maintain-github-repos>
 
 ### Most projects will fade out sooner or later<a id="sec-1-1-1" name="sec-1-1-1">[]</a>
 
-### Very low engagement<a id="sec-1-1-2" name="sec-1-1-2">[]</a>
+### Very low engagement by default<a id="sec-1-1-2" name="sec-1-1-2">[]</a>
 
 -   Very few people will use your projects. Even fewer will create issues or PRs
 
@@ -64,7 +65,7 @@ Github Repo: <https://github.com/DennyZhang/maintain-github-repos>
 
 ### Ownership for contributing other people's projects<a id="sec-1-1-4" name="sec-1-1-4">[]</a>
 
-### why you should ask people: "fork me on Github"<a id="sec-1-1-5" name="sec-1-1-5">[]</a>
+### Why you should ask people: "fork me on Github"<a id="sec-1-1-5" name="sec-1-1-5">[]</a>
 
 -   Sample: <https://www.dennyzhang.com/docker_monitor>
 -   Sample: <https://www.dennyzhang.com/help-denny>
@@ -76,7 +77,7 @@ Github Repo: <https://github.com/DennyZhang/maintain-github-repos>
 
 Samples: <https://github.com/DennyZhang/developer-free-saas>  
 
-### GitHub Repo add topic:<a id="sec-1-2-2" name="sec-1-2-2">[]</a>
+### GitHub Repo add topic<a id="sec-1-2-2" name="sec-1-2-2">[]</a>
 
 Samples: <https://github.com/DennyZhang/developer-free-saas>  
 
@@ -88,7 +89,15 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 
 -   Samples: <https://github.com/DennyZhang/remote-commands-servers>
 
-## How To Benefit As Opensource Maintainers<a id="sec-1-3" name="sec-1-3">[]</a>
+## Routine social activities<a id="sec-1-3" name="sec-1-3">[]</a>
+
+### After helping people, ask them to like/follow your projects<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
+
+### Check With Your Close Tech Friends<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
+
+-   What GitHub project you use? And who you follow in Github?
+
+## How To Benefit As Opensource Maintainers<a id="sec-1-4" name="sec-1-4">[]</a>
 
 -   Better job offer
 -   Improve skills at daily basis
@@ -97,12 +106,6 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 -   Consulting projects
 -   Sponsored posts and affiliate
 -   Paid writing for tech worlds
-
-## Routine social activities<a id="sec-1-4" name="sec-1-4">[]</a>
-
-### Check With Your Close Tech Friends<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
-
--   What GitHub project you use? And who you follow in Github?
 
 ## Sample Of Popular Projects<a id="sec-1-5" name="sec-1-5">[]</a>
 
