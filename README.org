@@ -4,6 +4,16 @@
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Maintain Github Projects For Bigger Influence
 Github Link: https://github.com/DennyZhang/maintain-github-repos
+** [#A] OpenSource Problems
+*** [#A] Must projects will be out of support
+*** [#A] Very low engagement
+- Very few people will use your projects. Even fewer will create issues or PRs
+*** Projects keep deprecated constantly
+- Sample: https://github.com/freyproject/frey
+- Sample: https://github.com/freyproject
+*** Ownership for contributing other people's projects
+*** why you should ask people: "fork me on Github"
+- https://softwareengineering.stackexchange.com/questions/214952/why-fork-me-on-github
 ** Make Your Repos More Attractive
 *** Github Project use emoji
 Samples: https://github.com/DennyZhang/developer-free-saas
@@ -28,12 +38,26 @@ Samples: https://github.com/DennyZhang/developer-free-saas
 - Samples: https://github.com/DennyZhang/remote-commands-servers
 **** misc                                                          :noexport:
 https://github.com/yegor256/trac2github
+** How To Benefit As Opensource Maintainers
+- Better job offer
+- Improve skills at daily basis
+- Meet people in common interests worldwide
+- Technical writer
+- Consulting projects
+- Sponsored posts and affiliate
+- Paid writing for tech worlds
 ** Routine social activities
 *** Ask your close friends: What GitHub project you use, and who you follow in Github?
 ** Sample Of Popular Projects
 *** Create github repo for examples
 - Sample: https://github.com/geerlingguy/ansible-vagrant-examples
 - Sample: https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg==
+** Github & SEO
+*** backlinks from Github help for SEO
+- https://www.quora.com/Do-backlinks-from-Github-help-for-SEO
+** More Related Readings
+- How To Improve Professional Influence In Linkedin: https://github.com/DennyZhang/linkedin-grow-influence
+- Effectively Technical Writing In GitHub: https://www.dennyzhang.com/github_wiki
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
 ** TODO How to attract new contributors to your open source project
 https://medium.freecodecamp.org/how-to-attract-new-contributors-to-your-open-source-project-46f8b791d787
