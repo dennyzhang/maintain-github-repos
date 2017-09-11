@@ -6,7 +6,7 @@
 <ul>
 <li><a href="#sec-1-1">1.1. OpenSource Problems</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Must projects will be out of support</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Most projects will fade out sooner or later</a></li>
 <li><a href="#sec-1-1-2">1.1.2. Very low engagement</a></li>
 <li><a href="#sec-1-1-3">1.1.3. Projects keep deprecated constantly</a></li>
 <li><a href="#sec-1-1-4">1.1.4. Ownership for contributing other people's projects</a></li>
@@ -47,11 +47,11 @@
 
 # Maintain Github Projects For Bigger Influence<a id="sec-1" name="sec-1">[]</a>
 
-Github Link: <https://github.com/DennyZhang/maintain-github-repos>  
+Github Repo: <https://github.com/DennyZhang/maintain-github-repos>  
 
 ## OpenSource Problems<a id="sec-1-1" name="sec-1-1">[]</a>
 
-### Must projects will be out of support<a id="sec-1-1-1" name="sec-1-1-1">[]</a>
+### Most projects will fade out sooner or later<a id="sec-1-1-1" name="sec-1-1-1">[]</a>
 
 ### Very low engagement<a id="sec-1-1-2" name="sec-1-1-2">[]</a>
 

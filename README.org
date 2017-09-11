@@ -3,9 +3,9 @@
 #+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Maintain Github Projects For Bigger Influence
-Github Link: https://github.com/DennyZhang/maintain-github-repos
+Github Repo: https://github.com/DennyZhang/maintain-github-repos
 ** [#A] OpenSource Problems
-*** [#A] Must projects will be out of support
+*** [#A] Most projects will fade out sooner or later
 *** [#A] Very low engagement
 - Very few people will use your projects. Even fewer will create issues or PRs
 *** Projects keep deprecated constantly
