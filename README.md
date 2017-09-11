@@ -4,9 +4,24 @@
 <ul>
 <li><a href="#sec-1">1. Maintain Github Projects For Bigger Influence</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Make Your Repos More Attractive</a></li>
-<li><a href="#sec-1-2">1.2. Routine social activities</a></li>
-<li><a href="#sec-1-3">1.3. Sample Of Popular Projects</a></li>
+<li><a href="#sec-1-1">1.1. Make Your Repos More Attractive</a>
+<ul>
+<li><a href="#sec-1-1-1">1.1.1. Github Project use emoji</a></li>
+<li><a href="#sec-1-1-2">1.1.2. GitHub Repo add topic:</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Add pinned repository</a></li>
+<li><a href="#sec-1-1-4">1.1.4. Add license to github repos</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-2">1.2. Routine social activities</a>
+<ul>
+<li><a href="#sec-1-2-1">1.2.1. Ask your close friends: What GitHub project you use, and who you follow in Github?</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-3">1.3. Sample Of Popular Projects</a>
+<ul>
+<li><a href="#sec-1-3-1">1.3.1. Create github repo for examples</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
