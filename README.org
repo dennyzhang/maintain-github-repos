@@ -1,5 +1,6 @@
 #+TAGS: noexport(n)
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
+#+OPTIONS: toc:nil \n:t ^:nil creator:nil d:nil
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Maintain Github Projects For Bigger Influence
 Github Link: https://github.com/DennyZhang/maintain-github-repos
@@ -33,7 +34,7 @@ https://github.com/yegor256/trac2github
 *** Create github repo for examples
 - Sample: https://github.com/geerlingguy/ansible-vagrant-examples
 - Sample: https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg==
-** #  --8<-------------------------- separator ------------------------>8--
+** #  --8<-------------------------- separator ------------------------>8-- :noexport:
 ** TODO How to attract new contributors to your open source project
 https://medium.freecodecamp.org/how-to-attract-new-contributors-to-your-open-source-project-46f8b791d787
 *** Label beginner issues appropriately: newbie can easily contribute
