@@ -24,7 +24,7 @@
 <li><a href="#sec-1-3">1.3. How To Benefit As Opensource Maintainers</a></li>
 <li><a href="#sec-1-4">1.4. Routine social activities</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. Ask your close friends: What GitHub project you use, and who you follow in Github?</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Check With Your Close Tech Friends</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-5">1.5. Sample Of Popular Projects</a>
@@ -66,6 +66,8 @@ Github Link: <https://github.com/DennyZhang/maintain-github-repos>
 
 ### why you should ask people: "fork me on Github"<a id="sec-1-1-5" name="sec-1-1-5">[]</a>
 
+-   Sample: <https://www.dennyzhang.com/docker_monitor>
+-   Sample: <https://www.dennyzhang.com/help-denny>
 -   <https://softwareengineering.stackexchange.com/questions/214952/why-fork-me-on-github>
 
 ## Make Your Repos More Attractive<a id="sec-1-2" name="sec-1-2">[]</a>
@@ -98,7 +100,9 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 
 ## Routine social activities<a id="sec-1-4" name="sec-1-4">[]</a>
 
-### Ask your close friends: What GitHub project you use, and who you follow in Github?<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
+### Check With Your Close Tech Friends<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
+
+-   What GitHub project you use? And who you follow in Github?
 
 ## Sample Of Popular Projects<a id="sec-1-5" name="sec-1-5">[]</a>
 
