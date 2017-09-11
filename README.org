@@ -16,6 +16,10 @@ Github Repo: https://github.com/DennyZhang/maintain-github-repos
 - Sample: https://www.dennyzhang.com/docker_monitor
 - Sample: https://www.dennyzhang.com/help-denny
 - https://softwareengineering.stackexchange.com/questions/214952/why-fork-me-on-github
+** Principle
+*** Only share things and code you personally use
+*** Integrate opensource maintaince into your daily life
+- It's a long run. You need to balance the effort with your family life.
 ** Make Your Repos More Attractive
 *** Github Project use emoji
 Samples: https://github.com/DennyZhang/developer-free-saas
