@@ -153,5 +153,6 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 
 ## More Related Readings<a id="sec-1-12" name="sec-1-12">[]</a>
 
+-   web page: [How To Get Thousands of Stars on Your Github Project](<https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2>)
 -   How To Improve Professional Influence In Linkedin: <https://github.com/DennyZhang/linkedin-grow-influence>
 -   Effectively Technical Writing In GitHub: <https://www.dennyzhang.com/github_wiki>

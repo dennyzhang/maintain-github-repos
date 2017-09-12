@@ -72,6 +72,7 @@ https://github.com/yegor256/trac2github
 ** Recommended Books
 - TODO
 ** More Related Readings
+- web page: [How To Get Thousands of Stars on Your Github Project](https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2)
 - How To Improve Professional Influence In Linkedin: https://github.com/DennyZhang/linkedin-grow-influence
 - Effectively Technical Writing In GitHub: https://www.dennyzhang.com/github_wiki
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
