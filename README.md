@@ -18,35 +18,40 @@
 <li><a href="#sec-1-2-2">1.2.2. Integrate opensource maintaince into your daily life</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Make Your Repos More Attractive</a>
+<li><a href="#sec-1-3">1.3. Surprises</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Github Project use emoji</a></li>
-<li><a href="#sec-1-3-2">1.3.2. GitHub Repo add topic</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Add pinned repository</a></li>
-<li><a href="#sec-1-3-4">1.3.4. Add license to github repos</a></li>
+<li><a href="#sec-1-3-1">1.3.1. You want to give it away for free but <b><b>nobody</b></b> wants it.</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. Ask People To Take Actions</a></li>
-<li><a href="#sec-1-5">1.5. Routine social activities</a>
+<li><a href="#sec-1-4">1.4. Make Your Repos More Attractive</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. After helping people, ask them to like/follow your projects</a></li>
-<li><a href="#sec-1-5-2">1.5.2. Check With Your Close Tech Friends</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Github Project use emoji</a></li>
+<li><a href="#sec-1-4-2">1.4.2. GitHub Repo add topic</a></li>
+<li><a href="#sec-1-4-3">1.4.3. Add pinned repository</a></li>
+<li><a href="#sec-1-4-4">1.4.4. Add license to github repos</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-6">1.6. How To Benefit As Opensource Maintainers</a></li>
-<li><a href="#sec-1-7">1.7. Role Models Of Github repos</a></li>
-<li><a href="#sec-1-8">1.8. Type Of Popular Projects</a>
+<li><a href="#sec-1-5">1.5. Ask People To Take Actions</a></li>
+<li><a href="#sec-1-6">1.6. Routine social activities</a>
 <ul>
-<li><a href="#sec-1-8-1">1.8.1. Create github repo for examples</a></li>
+<li><a href="#sec-1-6-1">1.6.1. After helping people, ask them to like/follow your projects</a></li>
+<li><a href="#sec-1-6-2">1.6.2. Check With Your Close Tech Friends</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-9">1.9. Github &amp; SEO</a>
+<li><a href="#sec-1-7">1.7. How To Benefit As Opensource Maintainers</a></li>
+<li><a href="#sec-1-8">1.8. Role Models Of Github repos</a></li>
+<li><a href="#sec-1-9">1.9. Type Of Popular Projects</a>
 <ul>
-<li><a href="#sec-1-9-1">1.9.1. backlinks from Github help for SEO</a></li>
+<li><a href="#sec-1-9-1">1.9.1. Create github repo for examples</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-10">1.10. Recommended Books</a></li>
-<li><a href="#sec-1-11">1.11. More Related Readings</a></li>
+<li><a href="#sec-1-10">1.10. Github &amp; SEO</a>
+<ul>
+<li><a href="#sec-1-10-1">1.10.1. backlinks from Github help for SEO</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-11">1.11. Recommended Books</a></li>
+<li><a href="#sec-1-12">1.12. More Related Readings</a></li>
 </ul>
 </li>
 </ul>
@@ -85,35 +90,39 @@ Github Repo: <https://github.com/DennyZhang/maintain-github-repos>
 
 -   It's a long run. You need to balance the effort with your family life.
 
-## Make Your Repos More Attractive<a id="sec-1-3" name="sec-1-3">[]</a>
+## Surprises<a id="sec-1-3" name="sec-1-3">[]</a>
 
-### Github Project use emoji<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
+### You want to give it away for free but ****nobody**** wants it.<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
 
-Samples: <https://github.com/DennyZhang/developer-free-saas>  
+## Make Your Repos More Attractive<a id="sec-1-4" name="sec-1-4">[]</a>
 
-### GitHub Repo add topic<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
-
-Samples: <https://github.com/DennyZhang/developer-free-saas>  
-
-### Add pinned repository<a id="sec-1-3-3" name="sec-1-3-3">[]</a>
+### Github Project use emoji<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
 
 Samples: <https://github.com/DennyZhang/developer-free-saas>  
 
-### Add license to github repos<a id="sec-1-3-4" name="sec-1-3-4">[]</a>
+### GitHub Repo add topic<a id="sec-1-4-2" name="sec-1-4-2">[]</a>
+
+Samples: <https://github.com/DennyZhang/developer-free-saas>  
+
+### Add pinned repository<a id="sec-1-4-3" name="sec-1-4-3">[]</a>
+
+Samples: <https://github.com/DennyZhang/developer-free-saas>  
+
+### Add license to github repos<a id="sec-1-4-4" name="sec-1-4-4">[]</a>
 
 -   Samples: <https://github.com/DennyZhang/remote-commands-servers>
 
-## Ask People To Take Actions<a id="sec-1-4" name="sec-1-4">[]</a>
+## Ask People To Take Actions<a id="sec-1-5" name="sec-1-5">[]</a>
 
-## Routine social activities<a id="sec-1-5" name="sec-1-5">[]</a>
+## Routine social activities<a id="sec-1-6" name="sec-1-6">[]</a>
 
-### After helping people, ask them to like/follow your projects<a id="sec-1-5-1" name="sec-1-5-1">[]</a>
+### After helping people, ask them to like/follow your projects<a id="sec-1-6-1" name="sec-1-6-1">[]</a>
 
-### Check With Your Close Tech Friends<a id="sec-1-5-2" name="sec-1-5-2">[]</a>
+### Check With Your Close Tech Friends<a id="sec-1-6-2" name="sec-1-6-2">[]</a>
 
 -   What GitHub project you use? And who you follow in Github?
 
-## How To Benefit As Opensource Maintainers<a id="sec-1-6" name="sec-1-6">[]</a>
+## How To Benefit As Opensource Maintainers<a id="sec-1-7" name="sec-1-7">[]</a>
 
 -   Better job offer
 -   Improve skills at daily basis
@@ -123,26 +132,26 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 -   Sponsored posts and affiliate
 -   Paid writing for tech worlds
 
-## Role Models Of Github repos<a id="sec-1-7" name="sec-1-7">[]</a>
+## Role Models Of Github repos<a id="sec-1-8" name="sec-1-8">[]</a>
 
-## Type Of Popular Projects<a id="sec-1-8" name="sec-1-8">[]</a>
+## Type Of Popular Projects<a id="sec-1-9" name="sec-1-9">[]</a>
 
-### Create github repo for examples<a id="sec-1-8-1" name="sec-1-8-1">[]</a>
+### Create github repo for examples<a id="sec-1-9-1" name="sec-1-9-1">[]</a>
 
 -   Sample: <https://github.com/geerlingguy/ansible-vagrant-examples>
 -   Sample: <https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg>==
 
-## Github & SEO<a id="sec-1-9" name="sec-1-9">[]</a>
+## Github & SEO<a id="sec-1-10" name="sec-1-10">[]</a>
 
-### backlinks from Github help for SEO<a id="sec-1-9-1" name="sec-1-9-1">[]</a>
+### backlinks from Github help for SEO<a id="sec-1-10-1" name="sec-1-10-1">[]</a>
 
 -   <https://www.quora.com/Do-backlinks-from-Github-help-for-SEO>
 
-## Recommended Books<a id="sec-1-10" name="sec-1-10">[]</a>
+## Recommended Books<a id="sec-1-11" name="sec-1-11">[]</a>
 
 -   TODO
 
-## More Related Readings<a id="sec-1-11" name="sec-1-11">[]</a>
+## More Related Readings<a id="sec-1-12" name="sec-1-12">[]</a>
 
 -   How To Improve Professional Influence In Linkedin: <https://github.com/DennyZhang/linkedin-grow-influence>
 -   Effectively Technical Writing In GitHub: <https://www.dennyzhang.com/github_wiki>

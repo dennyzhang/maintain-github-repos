@@ -20,6 +20,8 @@ Github Repo: https://github.com/DennyZhang/maintain-github-repos
 *** Only share things and code you personally use
 *** Integrate opensource maintaince into your daily life
 - It's a long run. You need to balance the effort with your family life.
+** Surprises
+*** You want to give it away for free but **nobody** wants it.
 ** Make Your Repos More Attractive
 *** Github Project use emoji
 Samples: https://github.com/DennyZhang/developer-free-saas
