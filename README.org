@@ -34,6 +34,8 @@ This gives people more confidence that your repos are active.
 *** After helping people, ask them to like/follow your projects
 *** Check With Your Close Tech Friends
 - What GitHub project you use? And who you follow in Github?
+*** Design your READMEs to be beautiful and attractive
+- Web page: https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2
 ** Surprises
 *** You want to give it away for free but **nobody** wants it.
 ** Make Your Repos More Attractive
@@ -60,6 +62,8 @@ Samples: https://github.com/DennyZhang/developer-free-saas
 - Samples: https://github.com/DennyZhang/remote-commands-servers
 **** misc                                                          :noexport:
 https://github.com/yegor256/trac2github
+** Examine your traffic
+*** Project -> Insights -> Graphs -> Traffic
 ** Ask People To Take Actions
 *** TODO Add Follow me in README.md
 ** How To Benefit As Opensource Maintainers
