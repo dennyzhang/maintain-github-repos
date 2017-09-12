@@ -75,6 +75,8 @@
 
 # Maintain Github Projects For Bigger Influence<a id="sec-1" name="sec-1">[]</a>
 
+**Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).  
+
 -   Github Repo: <https://github.com/DennyZhang/maintain-github-repos>
 -   For missing points: File me [tickets](<https://github.com/DennyZhang/maintain-github-repos/issues>)
 

@@ -3,6 +3,8 @@
 #+OPTIONS: toc:3 \n:t ^:nil creator:t d:nil
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Maintain Github Projects For Bigger Influence
+*Follow Denny*: in [[https://www.linkedin.com/in/dennyzhang001][LinkedIn]], [[https://github.com/DennyZhang][Github]] or [[https://www.dennyzhang.com][Blog]].
+
 - Github Repo: https://github.com/DennyZhang/maintain-github-repos
 - For missing points: File me [tickets](https://github.com/DennyZhang/maintain-github-repos/issues)
 
