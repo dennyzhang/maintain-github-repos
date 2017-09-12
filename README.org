@@ -36,6 +36,8 @@ Similar Projects:
 - It's a long run. You need to balance the effort with your family life.
 ** Benefits
 *** Get stars to show people have used your repos.
+*** Make money from open source
+*** Grow faster to be technical experts
 ** Routine activities
 *** Dump your todo and wish list as tickets of your repos
 This gives people more confidence that your repos are active.

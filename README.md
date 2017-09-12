@@ -23,6 +23,8 @@
 <li><a href="#sec-1-3">1.3. Benefits</a>
 <ul>
 <li><a href="#sec-1-3-1">1.3.1. Get stars to show people have used your repos.</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Make money from open source</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Grow faster to be technical experts</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Routine activities</a>
@@ -126,6 +128,10 @@ Similar Projects:
 ## Benefits<a id="sec-1-3" name="sec-1-3">[]</a>
 
 ### Get stars to show people have used your repos.<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
+
+### Make money from open source<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
+
+### Grow faster to be technical experts<a id="sec-1-3-3" name="sec-1-3-3">[]</a>
 
 ## Routine activities<a id="sec-1-4" name="sec-1-4">[]</a>
 
