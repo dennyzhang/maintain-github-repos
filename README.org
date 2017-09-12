@@ -3,7 +3,15 @@
 #+OPTIONS: toc:3 \n:t ^:nil creator:t d:nil
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Maintain Github Projects For Bigger Influence
-Github Repo: https://github.com/DennyZhang/maintain-github-repos
+- Github Repo: https://github.com/DennyZhang/maintain-github-repos
+- For missing points: File me [tickets](https://github.com/DennyZhang/maintain-github-repos/issues)
+
+Similar Projects: 
+- Github: [[https://github.com/DennyZhang/developer-technical-selling][Do a better technical selling as a developer]]
+- Github: [[https://github.com/DennyZhang/linkedin-grow-influence][How To Improve Professional Influence In Linkedin]]
+- Github: [[https://github.com/DennyZhang/maintain-github-repos][Maintain Github Projects For Bigger Influence]]
+--------------------------------------------------------
+
 ** [#A] OpenSource Problems
 *** [#A] Most projects will fade out sooner or later
 *** [#A] Very low engagement by default

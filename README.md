@@ -75,7 +75,16 @@
 
 # Maintain Github Projects For Bigger Influence<a id="sec-1" name="sec-1">[]</a>
 
-Github Repo: <https://github.com/DennyZhang/maintain-github-repos>  
+-   Github Repo: <https://github.com/DennyZhang/maintain-github-repos>
+-   For missing points: File me [tickets](<https://github.com/DennyZhang/maintain-github-repos/issues>)
+
+Similar Projects:  
+
+-   Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
+-   Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
+-   Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
+
+---
 
 ## OpenSource Problems<a id="sec-1-1" name="sec-1-1">[]</a>
 
