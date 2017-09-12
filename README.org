@@ -63,7 +63,7 @@ Samples: https://github.com/DennyZhang/developer-free-saas
 **** misc                                                          :noexport:
 https://github.com/yegor256/trac2github
 ** Examine your traffic
-*** Project -> Insights -> Graphs -> Traffic
+*** Get Referring Sites: Project -> Insights -> Graphs -> Traffic
 ** Ask People To Take Actions
 *** TODO Add Follow me in README.md
 ** How To Benefit As Opensource Maintainers
