@@ -40,9 +40,16 @@ Similar Projects:
 *** Integrate opensource maintaince into your daily life
 - It's a long run. You need to balance the effort with your family life.
 ** Benefits
+*** Bring more trafic to your blog
+- Link back repo to your blog posts
 *** Get stars to show people have used your repos.
 *** Make money from open source
+- Create dedicated repos: people can easily understand and reuse. And you can easily re-org
+- Code snippets are free, but solutions charge
+- Charge to fix bugs or on-demand features
 *** Grow faster to be technical experts
+*** Help hiring DevOps talents
+*** TODO How Redhat earn from open source
 ** Routine activities
 *** Dump your todo and wish list as tickets of your repos
 This gives people more confidence that your repos are active.
