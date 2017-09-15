@@ -22,9 +22,11 @@
 </li>
 <li><a href="#sec-1-3">1.3. Benefits</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Get stars to show people have used your repos.</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Make money from open source</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Grow faster to be technical experts</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Bring more trafic to your blog</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Get stars to show people have used your repos.</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Make money from open source</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Grow faster to be technical experts</a></li>
+<li><a href="#sec-1-3-5">1.3.5. Help hiring DevOps talents</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Routine activities</a>
@@ -82,13 +84,7 @@
 <a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/maintain-github-repos/issues>) or star [this github repo](<https://github.com/DennyZhang/maintain-github-repos>)
-
-Similar Projects:  
-
--   Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
--   Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
--   Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
--   Github: [How To Maintain An Active Slack Group For Mutual Benefits](https://github.com/DennyZhang/maintain-slack-group)
+-   [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
 ---
 
@@ -129,11 +125,21 @@ Similar Projects:
 
 ## Benefits<a id="sec-1-3" name="sec-1-3"></a>
 
-### Get stars to show people have used your repos.<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### Bring more trafic to your blog<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-### Make money from open source<a id="sec-1-3-2" name="sec-1-3-2"></a>
+-   Link back repo to your blog posts
 
-### Grow faster to be technical experts<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### Get stars to show people have used your repos.<a id="sec-1-3-2" name="sec-1-3-2"></a>
+
+### Make money from open source<a id="sec-1-3-3" name="sec-1-3-3"></a>
+
+-   Create dedicated repos: people can easily understand and reuse. And you can easily re-org
+-   Code snippets are free, but solutions charge
+-   Charge to fix bugs or on-demand features
+
+### Grow faster to be technical experts<a id="sec-1-3-4" name="sec-1-3-4"></a>
+
+### Help hiring DevOps talents<a id="sec-1-3-5" name="sec-1-3-5"></a>
 
 ## Routine activities<a id="sec-1-4" name="sec-1-4"></a>
 
