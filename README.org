@@ -80,15 +80,9 @@ https://help.github.com/articles/about-topics/
 Samples: https://github.com/DennyZhang/developer-free-saas
 *** Add license to github repos
   CLOSED: [2017-09-07 Thu 21:39]
-- Samples: https://github.com/DennyZhang/remote-commands-servers
+Samples: https://github.com/DennyZhang/remote-commands-servers
 **** misc                                                          :noexport:
 https://github.com/yegor256/trac2github
-** Questions to ask before opensoucing
-1. Who cares?
-- Are we still using it?
-- Are we committed to it?
-- Can it be developed in one public tree?
-https://opensource.com/business/16/1/4-questions-ask-open-sourcing-project
 ** Examine your traffic
 *** Get Referring Sites: Project -> Insights -> Graphs -> Traffic
 ** Ask People To Take Actions
