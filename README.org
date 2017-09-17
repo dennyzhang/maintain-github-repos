@@ -83,6 +83,8 @@ Samples: https://github.com/DennyZhang/developer-free-saas
 Samples: https://github.com/DennyZhang/remote-commands-servers
 **** misc                                                          :noexport:
 https://github.com/yegor256/trac2github
+** Before Starting an OpenSource Project
+https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md
 ** Examine your traffic
 *** Get Referring Sites: Project -> Insights -> Graphs -> Traffic
 ** Ask People To Take Actions
