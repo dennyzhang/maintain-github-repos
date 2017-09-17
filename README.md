@@ -50,26 +50,27 @@
 <li><a href="#sec-1-6-4">1.6.4. Add license to github repos</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-7">1.7. Examine your traffic</a>
+<li><a href="#sec-1-7">1.7. Questions to ask before opensoucing</a></li>
+<li><a href="#sec-1-8">1.8. Examine your traffic</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Get Referring Sites: Project -&gt; Insights -&gt; Graphs -&gt; Traffic</a></li>
+<li><a href="#sec-1-8-1">1.8.1. Get Referring Sites: Project -&gt; Insights -&gt; Graphs -&gt; Traffic</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-8">1.8. Ask People To Take Actions</a></li>
-<li><a href="#sec-1-9">1.9. How To Benefit As Opensource Maintainers</a></li>
-<li><a href="#sec-1-10">1.10. Role Models Of Github repos</a></li>
-<li><a href="#sec-1-11">1.11. Type Of Popular Projects</a>
+<li><a href="#sec-1-9">1.9. Ask People To Take Actions</a></li>
+<li><a href="#sec-1-10">1.10. How To Benefit As Opensource Maintainers</a></li>
+<li><a href="#sec-1-11">1.11. Role Models Of Github repos</a></li>
+<li><a href="#sec-1-12">1.12. Type Of Popular Projects</a>
 <ul>
-<li><a href="#sec-1-11-1">1.11.1. Create github repo for examples</a></li>
+<li><a href="#sec-1-12-1">1.12.1. Create github repo for examples</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-12">1.12. Github &amp; SEO</a>
+<li><a href="#sec-1-13">1.13. Github &amp; SEO</a>
 <ul>
-<li><a href="#sec-1-12-1">1.12.1. backlinks from Github help for SEO</a></li>
+<li><a href="#sec-1-13-1">1.13.1. backlinks from Github help for SEO</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-13">1.13. Recommended Books</a></li>
-<li><a href="#sec-1-14">1.14. More Related Readings</a></li>
+<li><a href="#sec-1-14">1.14. Recommended Books</a></li>
+<li><a href="#sec-1-15">1.15. More Related Readings</a></li>
 </ul>
 </li>
 </ul>
@@ -124,6 +125,9 @@
 -   It's a long run. You need to balance the effort with your family life.
 
 ## Benefits<a id="sec-1-3" name="sec-1-3"></a>
+
+Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.  
+[More links](https://github.com/zalando/zalando-howto-open-source)  
 
 ### Bring more trafic to your blog<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
@@ -181,13 +185,22 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 
 -   Samples: <https://github.com/DennyZhang/remote-commands-servers>
 
-## Examine your traffic<a id="sec-1-7" name="sec-1-7"></a>
+## Questions to ask before opensoucing<a id="sec-1-7" name="sec-1-7"></a>
 
-### Get Referring Sites: Project -> Insights -> Graphs -> Traffic<a id="sec-1-7-1" name="sec-1-7-1"></a>
+1.  Who cares?
+2.  Are we still using it?
+3.  Are we committed to it?
+4.  Can it be developed in one public tree?
 
-## Ask People To Take Actions<a id="sec-1-8" name="sec-1-8"></a>
+<https://opensource.com/business/16/1/4-questions-ask-open-sourcing-project>  
 
-## How To Benefit As Opensource Maintainers<a id="sec-1-9" name="sec-1-9"></a>
+## Examine your traffic<a id="sec-1-8" name="sec-1-8"></a>
+
+### Get Referring Sites: Project -> Insights -> Graphs -> Traffic<a id="sec-1-8-1" name="sec-1-8-1"></a>
+
+## Ask People To Take Actions<a id="sec-1-9" name="sec-1-9"></a>
+
+## How To Benefit As Opensource Maintainers<a id="sec-1-10" name="sec-1-10"></a>
 
 -   Better job offer
 -   Improve skills at daily basis
@@ -197,26 +210,26 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 -   Sponsored posts and affiliate
 -   Paid writing for tech worlds
 
-## Role Models Of Github repos<a id="sec-1-10" name="sec-1-10"></a>
+## Role Models Of Github repos<a id="sec-1-11" name="sec-1-11"></a>
 
-## Type Of Popular Projects<a id="sec-1-11" name="sec-1-11"></a>
+## Type Of Popular Projects<a id="sec-1-12" name="sec-1-12"></a>
 
-### Create github repo for examples<a id="sec-1-11-1" name="sec-1-11-1"></a>
+### Create github repo for examples<a id="sec-1-12-1" name="sec-1-12-1"></a>
 
 -   Sample: <https://github.com/geerlingguy/ansible-vagrant-examples>
 -   Sample: <https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg>==
 
-## Github & SEO<a id="sec-1-12" name="sec-1-12"></a>
+## Github & SEO<a id="sec-1-13" name="sec-1-13"></a>
 
-### backlinks from Github help for SEO<a id="sec-1-12-1" name="sec-1-12-1"></a>
+### backlinks from Github help for SEO<a id="sec-1-13-1" name="sec-1-13-1"></a>
 
 -   <https://www.quora.com/Do-backlinks-from-Github-help-for-SEO>
 
-## Recommended Books<a id="sec-1-13" name="sec-1-13"></a>
+## Recommended Books<a id="sec-1-14" name="sec-1-14"></a>
 
 -   TODO
 
-## More Related Readings<a id="sec-1-14" name="sec-1-14"></a>
+## More Related Readings<a id="sec-1-15" name="sec-1-15"></a>
 
 -   Web Page: [How To Get Thousands of Stars on Your Github Project](<https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2>)
 -   How To Improve Professional Influence In Linkedin: <https://github.com/DennyZhang/linkedin-grow-influence>

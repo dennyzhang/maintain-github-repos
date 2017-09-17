@@ -34,6 +34,9 @@
 *** Integrate opensource maintaince into your daily life
 - It's a long run. You need to balance the effort with your family life.
 ** Benefits
+Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.
+[[https://github.com/zalando/zalando-howto-open-source][More links]]
+
 *** Bring more trafic to your blog
 - Link back repo to your blog posts
 *** Get stars to show people have used your repos.
@@ -80,6 +83,12 @@ Samples: https://github.com/DennyZhang/developer-free-saas
 - Samples: https://github.com/DennyZhang/remote-commands-servers
 **** misc                                                          :noexport:
 https://github.com/yegor256/trac2github
+** Questions to ask before opensoucing
+1. Who cares?
+- Are we still using it?
+- Are we committed to it?
+- Can it be developed in one public tree?
+https://opensource.com/business/16/1/4-questions-ask-open-sourcing-project
 ** Examine your traffic
 *** Get Referring Sites: Project -> Insights -> Graphs -> Traffic
 ** Ask People To Take Actions
