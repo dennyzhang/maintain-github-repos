@@ -50,7 +50,7 @@
 <li><a href="#sec-1-6-4">1.6.4. Add license to github repos</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-7">1.7. Questions to ask before opensoucing</a></li>
+<li><a href="#sec-1-7">1.7. Before Starting an OpenSource Project</a></li>
 <li><a href="#sec-1-8">1.8. Examine your traffic</a>
 <ul>
 <li><a href="#sec-1-8-1">1.8.1. Get Referring Sites: Project -&gt; Insights -&gt; Graphs -&gt; Traffic</a></li>
@@ -83,6 +83,7 @@
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
+<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/maintain-github-repos/issues>) or star [this github repo](<https://github.com/DennyZhang/maintain-github-repos>)
 -   [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
@@ -183,16 +184,11 @@ Samples: <https://github.com/DennyZhang/developer-free-saas>
 
 ### Add license to github repos<a id="sec-1-6-4" name="sec-1-6-4"></a>
 
--   Samples: <https://github.com/DennyZhang/remote-commands-servers>
+Samples: <https://github.com/DennyZhang/remote-commands-servers>  
 
-## Questions to ask before opensoucing<a id="sec-1-7" name="sec-1-7"></a>
+## Before Starting an OpenSource Project<a id="sec-1-7" name="sec-1-7"></a>
 
-1.  Who cares?
-2.  Are we still using it?
-3.  Are we committed to it?
-4.  Can it be developed in one public tree?
-
-<https://opensource.com/business/16/1/4-questions-ask-open-sourcing-project>  
+<https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md>  
 
 ## Examine your traffic<a id="sec-1-8" name="sec-1-8"></a>
 
