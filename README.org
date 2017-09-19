@@ -29,6 +29,12 @@ Because it can: improve quality, mitigate risk, increase trust, save us money, e
 *** Attention
 - Bring more trafic to your blog.
 Link back repo to your blog posts
+- Sponsored posts and affiliate
+- Paid writing for tech worlds
+*** Skills
+- Better job offer
+- Meet people in common interests worldwide
+- Improve skills at daily basis
 *** Influence
 - Get stars to show people have used your repos.
 - Grow faster to be technical experts
@@ -37,6 +43,8 @@ Link back repo to your blog posts
 - Code snippets are free, but solutions charge
 - Charge to fix bugs or on-demand features
 - Help hiring DevOps talents
+- Technical writer
+- Consulting projects
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
 *** [#A] Most projects will fade out sooner or later
@@ -53,8 +61,9 @@ Link back repo to your blog posts
 ** Routine activities
 *** Make Your Repos More Attractive
 Check this: https://github.com/DennyZhang/popular-github-template
-*** Examine your traffic
-**** Get Referring Sites: Project -> Insights -> Graphs -> Traffic
+*** More Traffic
+- Examine your traffic: Get Referring Sites: Project -> Insights -> Graphs -> Traffic
+- backlinks from Github help for SEO: see [[https://www.quora.com/Do-backlinks-from-Github-help-for-SEO][link]]
 *** Ask feedbacks
 - Check With Your Close Tech Friends
 
@@ -68,32 +77,19 @@ See [[https://github.com/DennyZhang/maintain-github-repos/issues][sample]].
 - After helping people, ask them to like/follow your projects
 ** Learns learned
 - You want to give it away for free but **nobody** wants it.
-** Before Starting an OpenSource Project
-https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md
-** Ask People To Take Actions
-*** TODO Add Follow me in README.md
-** How To Benefit As Opensource Maintainers
-- Better job offer
-- Improve skills at daily basis
-- Meet people in common interests worldwide
-- Technical writer
-- Consulting projects
-- Sponsored posts and affiliate
-- Paid writing for tech worlds
-** Role Models Of Github repos
-*** TODO github repo template
 ** Type Of Popular Projects
 *** Create github repo for examples
 - Sample: https://github.com/geerlingguy/ansible-vagrant-examples
 - Sample: https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg==
 ** Github & SEO
-*** backlinks from Github help for SEO
-- https://www.quora.com/Do-backlinks-from-Github-help-for-SEO
-** Recommended Books
+** Recommended Resources
+*** Books
 - TODO
-** More Related Readings
-- Web Page: [How To Get Thousands of Stars on Your Github Project](https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2)
-- How To Improve Professional Influence In Linkedin: https://github.com/DennyZhang/linkedin-grow-influence
+*** Role Models
+**** TODO github repo template
+
+*** Web Pages
+- Web Page: [[https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2][How To Get Thousands of Stars on Your Github Project]]
 - Effectively Technical Writing In GitHub: https://www.dennyzhang.com/github_wiki
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
 ** TODO How to attract new contributors to your open source project
