@@ -15,10 +15,9 @@
 </li>
 <li><a href="#sec-1-3">1.3. OpenSource Questions</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Most projects will fade out sooner or later</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Very low engagement by default</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Projects keep deprecated constantly</a></li>
-<li><a href="#sec-1-3-4">1.3.4. Why you should ask people: "fork me on Github"</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Projects keep getting deprecated constantly</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Usually very low engagement</a></li>
+<li><a href="#sec-1-3-3">1.3.3. [Ownership] How I get credit contributing others' projects</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Routine activities</a>
@@ -106,22 +105,13 @@ Link back repo to your blog posts
 
 ## OpenSource Questions<a id="sec-1-3" name="sec-1-3"></a>
 
-### Most projects will fade out sooner or later<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### Projects keep getting deprecated constantly<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-### Very low engagement by default<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### Usually very low engagement<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
 -   Very few people will use your projects. Even fewer will create issues or PRs
 
-### Projects keep deprecated constantly<a id="sec-1-3-3" name="sec-1-3-3"></a>
-
--   Sample: <https://github.com/freyproject/frey>
--   Sample: <https://github.com/freyproject>
-
-### Why you should ask people: "fork me on Github"<a id="sec-1-3-4" name="sec-1-3-4"></a>
-
--   Sample: <https://www.dennyzhang.com/docker_monitor>
--   Sample: <https://www.dennyzhang.com/help-denny>
--   <https://softwareengineering.stackexchange.com/questions/214952/why-fork-me-on-github>
+### [Ownership] How I get credit contributing others' projects<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
 ## Routine activities<a id="sec-1-4" name="sec-1-4"></a>
 
@@ -144,9 +134,7 @@ What GitHub project you use? And who you follow in Github?
 
 -   Dump your todo and wish list as tickets of your repos
 
-This gives people more confidence that your repos are active.  
-
-See [sample](https://github.com/DennyZhang/maintain-github-repos/issues).  
+This gives people more confidence that your repos are active. See [sample](https://github.com/DennyZhang/maintain-github-repos/issues).  
 
 ### Social Engineering<a id="sec-1-4-5" name="sec-1-4-5"></a>
 
