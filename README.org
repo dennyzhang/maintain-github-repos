@@ -14,7 +14,31 @@
 - [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
 --------------------------------------------------------
 
-** [#A] OpenSource Problems
+** [#A] Principle
+- Research First, and choose the right battle.
+Lots of problems have already been solved a hundred thousand times.
+
+- Only share things and code you personally use
+- Grow your fans in an organic way
+- Encourage people to take actions. Instead of moving away without doing anything.
+- Integrate opensource maintaince into your daily life
+- It's a long run. You need to balance the effort with your family life.
+** Benefits
+Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.
+[[https://github.com/zalando/zalando-howto-open-source][More links]]
+*** Attention
+- Bring more trafic to your blog.
+Link back repo to your blog posts
+*** Influence
+- Get stars to show people have used your repos.
+- Grow faster to be technical experts
+*** Make Money
+- Create dedicated repos: people can easily understand and reuse. And you can easily re-org
+- Code snippets are free, but solutions charge
+- Charge to fix bugs or on-demand features
+- Help hiring DevOps talents
+*** TODO How Redhat earn from open source
+** [#A] OpenSource Questions
 *** [#A] Most projects will fade out sooner or later
 *** [#A] Very low engagement by default
 - Very few people will use your projects. Even fewer will create issues or PRs
@@ -26,68 +50,26 @@
 - Sample: https://www.dennyzhang.com/docker_monitor
 - Sample: https://www.dennyzhang.com/help-denny
 - https://softwareengineering.stackexchange.com/questions/214952/why-fork-me-on-github
-** [#A] Principle
-*** Research First, and choose the right battle.
-- Lots of problems have already been solved a hundred thousand times.
-*** Only share things and code you personally use
-*** Grow your fans in an organic way
-- Encourage people to take actions. Instead of moving away without doing anything.
-*** Integrate opensource maintaince into your daily life
-- It's a long run. You need to balance the effort with your family life.
-** Benefits
-Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.
-[[https://github.com/zalando/zalando-howto-open-source][More links]]
-
-*** Bring more trafic to your blog
-- Link back repo to your blog posts
-*** Get stars to show people have used your repos.
-*** Make money from open source
-- Create dedicated repos: people can easily understand and reuse. And you can easily re-org
-- Code snippets are free, but solutions charge
-- Charge to fix bugs or on-demand features
-*** Grow faster to be technical experts
-*** Help hiring DevOps talents
-*** TODO How Redhat earn from open source
 ** Routine activities
-*** Dump your todo and wish list as tickets of your repos
+*** Make Your Repos More Attractive
+Check this: https://github.com/DennyZhang/popular-github-template
+*** Examine your traffic
+**** Get Referring Sites: Project -> Insights -> Graphs -> Traffic
+*** Ask feedbacks
+- Check With Your Close Tech Friends
+
+What GitHub project you use? And who you follow in Github?
+*** Use Github In Your Daily Activities 
+- Dump your todo and wish list as tickets of your repos
 This gives people more confidence that your repos are active.
 
-- Sample: https://github.com/DennyZhang/maintain-github-repos/issues
-*** After helping people, ask them to like/follow your projects
-*** Check With Your Close Tech Friends
-- What GitHub project you use? And who you follow in Github?
-*** Design your READMEs to be beautiful and attractive
-- Web page: https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2
-** Surprises
-*** You want to give it away for free but **nobody** wants it.
-** Make Your Repos More Attractive
-*** Github Project use emoji
-Samples: https://github.com/DennyZhang/developer-free-saas
-*** GitHub Repo add topic
-Samples: https://github.com/DennyZhang/developer-free-saas
-**** misc                                                          :noexport:
-https://github.com/yegor256/rultor
-https://github.com/vinta/awesome-python
-
-https://github.com/yegor256/tacit
-
-With topics, you can explore repositories in a particular subject area, find projects to contribute to, and discover new solutions to a specific problem.
-
-Repository admins can add any topics they'd like to a repository's main page.
-Additionally, GitHub uses machine learning to analyze public repository content and generate suggested topics that repository admins can accept or reject.
-
-https://help.github.com/articles/about-topics/
-*** Add pinned repository
-Samples: https://github.com/DennyZhang/developer-free-saas
-*** Add license to github repos
-  CLOSED: [2017-09-07 Thu 21:39]
-Samples: https://github.com/DennyZhang/remote-commands-servers
-**** misc                                                          :noexport:
-https://github.com/yegor256/trac2github
+See [[https://github.com/DennyZhang/maintain-github-repos/issues][sample]].
+*** Social Engineering
+- After helping people, ask them to like/follow your projects
+** Learns learned
+- You want to give it away for free but **nobody** wants it.
 ** Before Starting an OpenSource Project
 https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md
-** Examine your traffic
-*** Get Referring Sites: Project -> Insights -> Graphs -> Traffic
 ** Ask People To Take Actions
 *** TODO Add Follow me in README.md
 ** How To Benefit As Opensource Maintainers
