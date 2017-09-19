@@ -31,17 +31,12 @@
 </ul>
 </li>
 <li><a href="#sec-1-5">1.5. Learns learned</a></li>
-<li><a href="#sec-1-6">1.6. Type Of Popular Projects</a>
+<li><a href="#sec-1-6">1.6. Type Of Github Projects</a></li>
+<li><a href="#sec-1-7">1.7. Recommended Resources</a>
 <ul>
-<li><a href="#sec-1-6-1">1.6.1. Create github repo for examples</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-7">1.7. Github &amp; SEO</a></li>
-<li><a href="#sec-1-8">1.8. Recommended Resources</a>
-<ul>
-<li><a href="#sec-1-8-1">1.8.1. Books</a></li>
-<li><a href="#sec-1-8-2">1.8.2. Role Models</a></li>
-<li><a href="#sec-1-8-3">1.8.3. Web Pages</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Books</a></li>
+<li><a href="#sec-1-7-2">1.7.2. Role Models</a></li>
+<li><a href="#sec-1-7-3">1.7.3. Web Pages</a></li>
 </ul>
 </li>
 </ul>
@@ -161,24 +156,23 @@ See [sample](https://github.com/DennyZhang/maintain-github-repos/issues).
 
 -   You want to give it away for free but ****nobody**** wants it.
 
-## Type Of Popular Projects<a id="sec-1-6" name="sec-1-6"></a>
+## Type Of Github Projects<a id="sec-1-6" name="sec-1-6"></a>
 
-### Create github repo for examples<a id="sec-1-6-1" name="sec-1-6-1"></a>
+-   Study
+-   Awesome
+-   Tools & Facilities
+-   Framkeworks
+-   etc
 
--   Sample: <https://github.com/geerlingguy/ansible-vagrant-examples>
--   Sample: <https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg>==
+## Recommended Resources<a id="sec-1-7" name="sec-1-7"></a>
 
-## Github & SEO<a id="sec-1-7" name="sec-1-7"></a>
-
-## Recommended Resources<a id="sec-1-8" name="sec-1-8"></a>
-
-### Books<a id="sec-1-8-1" name="sec-1-8-1"></a>
+### Books<a id="sec-1-7-1" name="sec-1-7-1"></a>
 
 -   TODO
 
-### Role Models<a id="sec-1-8-2" name="sec-1-8-2"></a>
+### Role Models<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
-### Web Pages<a id="sec-1-8-3" name="sec-1-8-3"></a>
+### Web Pages<a id="sec-1-7-3" name="sec-1-7-3"></a>
 
 -   Web Page: [How To Get Thousands of Stars on Your Github Project](https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2)
 -   Effectively Technical Writing In GitHub: <https://www.dennyzhang.com/github_wiki>

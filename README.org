@@ -77,11 +77,12 @@ See [[https://github.com/DennyZhang/maintain-github-repos/issues][sample]].
 - After helping people, ask them to like/follow your projects
 ** Learns learned
 - You want to give it away for free but **nobody** wants it.
-** Type Of Popular Projects
-*** Create github repo for examples
-- Sample: https://github.com/geerlingguy/ansible-vagrant-examples
-- Sample: https://github.com/ripienaar/free-for-dev?lipi=urn:li:page:d_flagship3_detail_base;KrrCIzZ3T3a5yUYdlsxrXg==
-** Github & SEO
+** Type Of Github Projects
+- Study
+- Awesome
+- Tools & Facilities
+- Framkeworks
+- etc
 ** Recommended Resources
 *** Books
 - TODO
