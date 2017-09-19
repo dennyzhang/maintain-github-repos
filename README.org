@@ -50,9 +50,7 @@ Link back repo to your blog posts
 *** [#A] Most projects will fade out sooner or later
 *** [#A] Very low engagement by default
 - Very few people will use your projects. Even fewer will create issues or PRs
-*** Projects keep deprecated constantly
-- Sample: https://github.com/freyproject/frey
-- Sample: https://github.com/freyproject
+*** Projects keep getting deprecated constantly
 *** TODO [Ownership] How I get credit contributing others' projects
 *** Why you should ask people: "fork me on Github"
 - Sample: https://www.dennyzhang.com/docker_monitor
