@@ -45,7 +45,7 @@ Link back repo to your blog posts
 - Help hiring DevOps talents
 - Technical writer
 - Consulting projects
-- Donation: Patreon
+- Donation: [[https://www.patreon.com][Patreon]]
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
 *** [#A] Projects keep getting deprecated constantly
