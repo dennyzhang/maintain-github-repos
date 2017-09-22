@@ -8,6 +8,7 @@
 <ul>
 <li><a href="#sec-1-1-1">1.1.1. Puzzle1</a></li>
 <li><a href="#sec-1-1-2">1.1.2. Puzzle2</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Puzzle3</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. OpenSource Questions</a></li>
@@ -77,6 +78,12 @@ I’m looking for a way to support me doing it longer. I mean for years.
 I’m fine to do it with no return for several years. But talking about even longer, I can't find the good incentives.  
 
 ### Puzzle2<a id="sec-1-1-2" name="sec-1-1-2"></a>
+
+If we can run opensource as a business, it can last for a long run.  
+
+But what're the opportunties for individuals or small teams in open source community?  
+
+### Puzzle3<a id="sec-1-1-3" name="sec-1-1-3"></a>
 
 Deriving a product from a public open source project looks quite promising.  
 
