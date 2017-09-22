@@ -4,48 +4,54 @@
 <ul>
 <li><a href="#sec-1">1. Maintain Github Projects For Bigger Influence</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Benefits</a>
+<li><a href="#sec-1-1">1.1. Puzzle In OpenSource</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Skills</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Influence</a></li>
-<li><a href="#sec-1-1-3">1.1.3. Attention</a></li>
-<li><a href="#sec-1-1-4">1.1.4. Make Money</a></li>
-<li><a href="#sec-1-1-5">1.1.5. More resource</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Puzzle1:</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Puzzle2:</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. OpenSource Questions</a>
+<li><a href="#sec-1-2">1.2. Benefits</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted</a></li>
-<li><a href="#sec-1-2-2">1.2.2. If Always Low Return, How To Persist The Journey In the Long Run</a></li>
-<li><a href="#sec-1-2-3">1.2.3. How To Balance Project Maintenance Effort with Daily Work and Life</a></li>
-<li><a href="#sec-1-2-4">1.2.4. Projects Keep Getting Deprecated Constantly</a></li>
-<li><a href="#sec-1-2-5">1.2.5. Very Low Engagement, Very Few People Use Your Solutions</a></li>
-<li><a href="#sec-1-2-6">1.2.6. How I Get Credits For Contributing Others' Projects</a></li>
+<li><a href="#sec-1-2-1">1.2.1. Skills</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Influence</a></li>
+<li><a href="#sec-1-2-3">1.2.3. Attention</a></li>
+<li><a href="#sec-1-2-4">1.2.4. Make Money</a></li>
+<li><a href="#sec-1-2-5">1.2.5. More resource</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Principle</a>
+<li><a href="#sec-1-3">1.3. OpenSource Questions</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Only Provide New And Useful Things</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Support For A Long Run</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Don't Forget Value Stream</a></li>
+<li><a href="#sec-1-3-1">1.3.1. When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted</a></li>
+<li><a href="#sec-1-3-2">1.3.2. If Always Low Return, How To Persist The Journey In the Long Run</a></li>
+<li><a href="#sec-1-3-3">1.3.3. How To Balance Project Maintenance Effort with Daily Work and Life</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Projects Keep Getting Deprecated Constantly</a></li>
+<li><a href="#sec-1-3-5">1.3.5. Very Low Engagement, Very Few People Use Your Solutions</a></li>
+<li><a href="#sec-1-3-6">1.3.6. How I Get Credits For Contributing Others' Projects</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. Routine activities</a>
+<li><a href="#sec-1-4">1.4. Principle</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. Make Your Repos More Attractive</a></li>
-<li><a href="#sec-1-4-2">1.4.2. More Traffic</a></li>
-<li><a href="#sec-1-4-3">1.4.3. Ask feedbacks</a></li>
-<li><a href="#sec-1-4-4">1.4.4. Use Github In Your Daily Activities</a></li>
-<li><a href="#sec-1-4-5">1.4.5. Social Engineering</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Only Provide New And Useful Things</a></li>
+<li><a href="#sec-1-4-2">1.4.2. Support For A Long Run</a></li>
+<li><a href="#sec-1-4-3">1.4.3. Don't Forget Value Stream</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. Learns learned</a></li>
-<li><a href="#sec-1-6">1.6. Type Of Github Projects</a></li>
-<li><a href="#sec-1-7">1.7. Recommended Resources</a>
+<li><a href="#sec-1-5">1.5. Routine activities</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Books</a></li>
-<li><a href="#sec-1-7-2">1.7.2. Role Models</a></li>
-<li><a href="#sec-1-7-3">1.7.3. Web Pages</a></li>
+<li><a href="#sec-1-5-1">1.5.1. Make Your Repos More Attractive</a></li>
+<li><a href="#sec-1-5-2">1.5.2. More Traffic</a></li>
+<li><a href="#sec-1-5-3">1.5.3. Ask feedbacks</a></li>
+<li><a href="#sec-1-5-4">1.5.4. Use Github In Your Daily Activities</a></li>
+<li><a href="#sec-1-5-5">1.5.5. Social Engineering</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-6">1.6. Learns learned</a></li>
+<li><a href="#sec-1-7">1.7. Type Of Github Projects</a></li>
+<li><a href="#sec-1-8">1.8. Recommended Resources</a>
+<ul>
+<li><a href="#sec-1-8-1">1.8.1. Books</a></li>
+<li><a href="#sec-1-8-2">1.8.2. Role Models</a></li>
+<li><a href="#sec-1-8-3">1.8.3. Web Pages</a></li>
 </ul>
 </li>
 </ul>
@@ -67,26 +73,42 @@
 
 ---
 
-## Benefits<a id="sec-1-1" name="sec-1-1"></a>
+## Puzzle In OpenSource<a id="sec-1-1" name="sec-1-1"></a>
 
-### Skills<a id="sec-1-1-1" name="sec-1-1-1"></a>
+### Puzzle1:<a id="sec-1-1-1" name="sec-1-1-1"></a>
+
+I just feel maintaining some good github repos will help in many ways.  
+
+What can support me for the long and lonely journey?  
+
+### Puzzle2:<a id="sec-1-1-2" name="sec-1-1-2"></a>
+
+Deriving a product from a public open source project looks quite promising.  
+
+I can provide premium online service as a business model.  
+
+But if mini projects, it's easy to be replaced.  
+
+## Benefits<a id="sec-1-2" name="sec-1-2"></a>
+
+### Skills<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
 -   Meet people in common interests worldwide
 -   Improve skills at daily basis
 -   Better job offer
 
-### Influence<a id="sec-1-1-2" name="sec-1-1-2"></a>
+### Influence<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
 -   Get stars to show people have used your repos.
 -   Grow faster to be technical experts
 
-### Attention<a id="sec-1-1-3" name="sec-1-1-3"></a>
+### Attention<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
 -   Bring more traffic to my blog
 -   Sponsored posts and affiliate
 -   Paid writing for tech worlds
 
-### Make Money<a id="sec-1-1-4" name="sec-1-1-4"></a>
+### Make Money<a id="sec-1-2-4" name="sec-1-2-4"></a>
 
 -   Create dedicated repos: people can easily understand and reuse. And you can easily re-org
 -   Code snippets are free, but solutions charge
@@ -96,80 +118,76 @@
 -   Consulting projects
 -   Donation: [Patreon](https://www.patreon.com)
 
-### More resource<a id="sec-1-1-5" name="sec-1-1-5"></a>
+### More resource<a id="sec-1-2-5" name="sec-1-2-5"></a>
 
 Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.  
 [More links](https://github.com/zalando/zalando-howto-open-source)  
 
-## OpenSource Questions<a id="sec-1-2" name="sec-1-2"></a>
+## OpenSource Questions<a id="sec-1-3" name="sec-1-3"></a>
 
-I just feel maintaining some good github repos will help in many ways.  
+### When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-But how to do that, I run into above problems.  
+### If Always Low Return, How To Persist The Journey In the Long Run<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
-### When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### How To Balance Project Maintenance Effort with Daily Work and Life<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
-### If Always Low Return, How To Persist The Journey In the Long Run<a id="sec-1-2-2" name="sec-1-2-2"></a>
+### Projects Keep Getting Deprecated Constantly<a id="sec-1-3-4" name="sec-1-3-4"></a>
 
-### How To Balance Project Maintenance Effort with Daily Work and Life<a id="sec-1-2-3" name="sec-1-2-3"></a>
-
-### Projects Keep Getting Deprecated Constantly<a id="sec-1-2-4" name="sec-1-2-4"></a>
-
-### Very Low Engagement, Very Few People Use Your Solutions<a id="sec-1-2-5" name="sec-1-2-5"></a>
+### Very Low Engagement, Very Few People Use Your Solutions<a id="sec-1-3-5" name="sec-1-3-5"></a>
 
 -   Very few people will use your projects. Even fewer will create issues or PRs
 
-### How I Get Credits For Contributing Others' Projects<a id="sec-1-2-6" name="sec-1-2-6"></a>
+### How I Get Credits For Contributing Others' Projects<a id="sec-1-3-6" name="sec-1-3-6"></a>
 
-## Principle<a id="sec-1-3" name="sec-1-3"></a>
+## Principle<a id="sec-1-4" name="sec-1-4"></a>
 
-### Only Provide New And Useful Things<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### Only Provide New And Useful Things<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
 -   Research First, and choose the right battle. Lots of problems have already been solved a hundred thousand times.
 -   Only share things and code you personally use in your daily work
 
-### Support For A Long Run<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### Support For A Long Run<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
 -   Grow your fans in an organic way
 -   Integrate opensource daily support with your daily life
 -   It's a long run. You need to balance the effort with your family life.
 
-### Don't Forget Value Stream<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### Don't Forget Value Stream<a id="sec-1-4-3" name="sec-1-4-3"></a>
 
 -   Encourage people to take actions. Instead of moving away without doing anything.
 
-## Routine activities<a id="sec-1-4" name="sec-1-4"></a>
+## Routine activities<a id="sec-1-5" name="sec-1-5"></a>
 
-### Make Your Repos More Attractive<a id="sec-1-4-1" name="sec-1-4-1"></a>
+### Make Your Repos More Attractive<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
 Check this: <https://github.com/DennyZhang/popular-github-template>  
 
-### More Traffic<a id="sec-1-4-2" name="sec-1-4-2"></a>
+### More Traffic<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
 -   Examine your traffic: Get Referring Sites: Project -> Insights -> Graphs -> Traffic
 -   backlinks from Github help for SEO: see [link](https://www.quora.com/Do-backlinks-from-Github-help-for-SEO)
 
-### Ask feedbacks<a id="sec-1-4-3" name="sec-1-4-3"></a>
+### Ask feedbacks<a id="sec-1-5-3" name="sec-1-5-3"></a>
 
 -   Check With Your Close Tech Friends
 
 What GitHub project you use? And who you follow in Github?  
 
-### Use Github In Your Daily Activities<a id="sec-1-4-4" name="sec-1-4-4"></a>
+### Use Github In Your Daily Activities<a id="sec-1-5-4" name="sec-1-5-4"></a>
 
 -   Dump your todo and wish list as tickets of your repos
 
 This gives people more confidence that your repos are active. See [sample](https://github.com/DennyZhang/maintain-github-repos/issues).  
 
-### Social Engineering<a id="sec-1-4-5" name="sec-1-4-5"></a>
+### Social Engineering<a id="sec-1-5-5" name="sec-1-5-5"></a>
 
 -   After helping people, ask them to like/follow your projects
 
-## Learns learned<a id="sec-1-5" name="sec-1-5"></a>
+## Learns learned<a id="sec-1-6" name="sec-1-6"></a>
 
 -   You want to give it away for free but ****nobody**** wants it.
 
-## Type Of Github Projects<a id="sec-1-6" name="sec-1-6"></a>
+## Type Of Github Projects<a id="sec-1-7" name="sec-1-7"></a>
 
 -   Study
 -   Awesome
@@ -177,15 +195,15 @@ This gives people more confidence that your repos are active. See [sample](https
 -   Framkeworks
 -   etc
 
-## Recommended Resources<a id="sec-1-7" name="sec-1-7"></a>
+## Recommended Resources<a id="sec-1-8" name="sec-1-8"></a>
 
-### Books<a id="sec-1-7-1" name="sec-1-7-1"></a>
+### Books<a id="sec-1-8-1" name="sec-1-8-1"></a>
 
 -   TODO
 
-### Role Models<a id="sec-1-7-2" name="sec-1-7-2"></a>
+### Role Models<a id="sec-1-8-2" name="sec-1-8-2"></a>
 
-### Web Pages<a id="sec-1-7-3" name="sec-1-7-3"></a>
+### Web Pages<a id="sec-1-8-3" name="sec-1-8-3"></a>
 
 -   Web Page: [How To Get Thousands of Stars on Your Github Project](https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2)
 -   Effectively Technical Writing In GitHub: <https://www.dennyzhang.com/github_wiki>
