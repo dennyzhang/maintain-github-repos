@@ -4,30 +4,31 @@
 <ul>
 <li><a href="#sec-1">1. Maintain Github Projects For Bigger Influence</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Principle</a>
+<li><a href="#sec-1-1">1.1. Benefits</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Only Provide New And Useful Things</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Support For A Long Run</a></li>
-<li><a href="#sec-1-1-3">1.1.3. Don't Forget Value Stream</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Attention</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Skills</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Influence</a></li>
+<li><a href="#sec-1-1-4">1.1.4. Make Money</a></li>
+<li><a href="#sec-1-1-5">1.1.5. More resource</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. Benefits</a>
+<li><a href="#sec-1-2">1.2. OpenSource Questions</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. Attention</a></li>
-<li><a href="#sec-1-2-2">1.2.2. Skills</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Influence</a></li>
-<li><a href="#sec-1-2-4">1.2.4. Make Money</a></li>
+<li><a href="#sec-1-2-1">1.2.1. [Goal] Grow Technical Influence By Maintaining OpenSource Projects. But...</a></li>
+<li><a href="#sec-1-2-2">1.2.2. When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted</a></li>
+<li><a href="#sec-1-2-3">1.2.3. If Always Low Return, How To Persist The Journey In the Long Run</a></li>
+<li><a href="#sec-1-2-4">1.2.4. How To Balance Project Maintenance Effort with Daily Work and Life</a></li>
+<li><a href="#sec-1-2-5">1.2.5. Projects Keep Getting Deprecated Constantly</a></li>
+<li><a href="#sec-1-2-6">1.2.6. Very Low Engagement, Very Few People Use Your Solutions</a></li>
+<li><a href="#sec-1-2-7">1.2.7. How I Get Credits For Contributing Others' Projects</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. OpenSource Questions</a>
+<li><a href="#sec-1-3">1.3. Principle</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. 0. Goal: Grow Technical Influence By Maintaining OpenSource Projects. But...</a></li>
-<li><a href="#sec-1-3-2">1.3.2. When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted</a></li>
-<li><a href="#sec-1-3-3">1.3.3. If Always Low Return, How To Persist The Journey In the Long Run</a></li>
-<li><a href="#sec-1-3-4">1.3.4. How To Balance Project Maintenance Effort with Daily Work and Life</a></li>
-<li><a href="#sec-1-3-5">1.3.5. Projects Keep Getting Deprecated Constantly</a></li>
-<li><a href="#sec-1-3-6">1.3.6. Very Low Engagement, Very Few People Use Your Solutions</a></li>
-<li><a href="#sec-1-3-7">1.3.7. How I Get Credits For Contributing Others' Projects</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Only Provide New And Useful Things</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Support For A Long Run</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Don't Forget Value Stream</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Routine activities</a>
@@ -67,29 +68,9 @@
 
 ---
 
-## Principle<a id="sec-1-1" name="sec-1-1"></a>
+## Benefits<a id="sec-1-1" name="sec-1-1"></a>
 
-### Only Provide New And Useful Things<a id="sec-1-1-1" name="sec-1-1-1"></a>
-
--   Research First, and choose the right battle. Lots of problems have already been solved a hundred thousand times.
--   Only share things and code you personally use in your daily work
-
-### Support For A Long Run<a id="sec-1-1-2" name="sec-1-1-2"></a>
-
--   Grow your fans in an organic way
--   Integrate opensource daily support with your daily life
--   It's a long run. You need to balance the effort with your family life.
-
-### Don't Forget Value Stream<a id="sec-1-1-3" name="sec-1-1-3"></a>
-
--   Encourage people to take actions. Instead of moving away without doing anything.
-
-## Benefits<a id="sec-1-2" name="sec-1-2"></a>
-
-Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.  
-[More links](https://github.com/zalando/zalando-howto-open-source)  
-
-### Attention<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### Attention<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
 -   Bring more traffic to your blog.
 
@@ -98,18 +79,18 @@ Link back repo to your blog posts
 -   Sponsored posts and affiliate
 -   Paid writing for tech worlds
 
-### Skills<a id="sec-1-2-2" name="sec-1-2-2"></a>
+### Skills<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
 -   Better job offer
 -   Meet people in common interests worldwide
 -   Improve skills at daily basis
 
-### Influence<a id="sec-1-2-3" name="sec-1-2-3"></a>
+### Influence<a id="sec-1-1-3" name="sec-1-1-3"></a>
 
 -   Get stars to show people have used your repos.
 -   Grow faster to be technical experts
 
-### Make Money<a id="sec-1-2-4" name="sec-1-2-4"></a>
+### Make Money<a id="sec-1-1-4" name="sec-1-1-4"></a>
 
 -   Create dedicated repos: people can easily understand and reuse. And you can easily re-org
 -   Code snippets are free, but solutions charge
@@ -119,23 +100,45 @@ Link back repo to your blog posts
 -   Consulting projects
 -   Donation: [Patreon](https://www.patreon.com)
 
-## OpenSource Questions<a id="sec-1-3" name="sec-1-3"></a>
+### More resource<a id="sec-1-1-5" name="sec-1-1-5"></a>
 
-### 0. Goal: Grow Technical Influence By Maintaining OpenSource Projects. But...<a id="sec-1-3-1" name="sec-1-3-1"></a>
+Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.  
+[More links](https://github.com/zalando/zalando-howto-open-source)  
 
-### When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted<a id="sec-1-3-2" name="sec-1-3-2"></a>
+## OpenSource Questions<a id="sec-1-2" name="sec-1-2"></a>
 
-### If Always Low Return, How To Persist The Journey In the Long Run<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### [Goal] Grow Technical Influence By Maintaining OpenSource Projects. But...<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
-### How To Balance Project Maintenance Effort with Daily Work and Life<a id="sec-1-3-4" name="sec-1-3-4"></a>
+### When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
-### Projects Keep Getting Deprecated Constantly<a id="sec-1-3-5" name="sec-1-3-5"></a>
+### If Always Low Return, How To Persist The Journey In the Long Run<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
-### Very Low Engagement, Very Few People Use Your Solutions<a id="sec-1-3-6" name="sec-1-3-6"></a>
+### How To Balance Project Maintenance Effort with Daily Work and Life<a id="sec-1-2-4" name="sec-1-2-4"></a>
+
+### Projects Keep Getting Deprecated Constantly<a id="sec-1-2-5" name="sec-1-2-5"></a>
+
+### Very Low Engagement, Very Few People Use Your Solutions<a id="sec-1-2-6" name="sec-1-2-6"></a>
 
 -   Very few people will use your projects. Even fewer will create issues or PRs
 
-### How I Get Credits For Contributing Others' Projects<a id="sec-1-3-7" name="sec-1-3-7"></a>
+### How I Get Credits For Contributing Others' Projects<a id="sec-1-2-7" name="sec-1-2-7"></a>
+
+## Principle<a id="sec-1-3" name="sec-1-3"></a>
+
+### Only Provide New And Useful Things<a id="sec-1-3-1" name="sec-1-3-1"></a>
+
+-   Research First, and choose the right battle. Lots of problems have already been solved a hundred thousand times.
+-   Only share things and code you personally use in your daily work
+
+### Support For A Long Run<a id="sec-1-3-2" name="sec-1-3-2"></a>
+
+-   Grow your fans in an organic way
+-   Integrate opensource daily support with your daily life
+-   It's a long run. You need to balance the effort with your family life.
+
+### Don't Forget Value Stream<a id="sec-1-3-3" name="sec-1-3-3"></a>
+
+-   Encourage people to take actions. Instead of moving away without doing anything.
 
 ## Routine activities<a id="sec-1-4" name="sec-1-4"></a>
 
