@@ -48,8 +48,8 @@ Link back repo to your blog posts
 - Donation: [[https://www.patreon.com][Patreon]]
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
-*** How To Balance Workload Of Project Maintenance with Daily Work and Life
-*** When New Projects Replaces Yours, Your Effort Will Be Wasted
+*** When New Projects Replaces Yours, Your Effort Will Be Totally Wasted
+*** How To Balance Project Maintenance Effort with Daily Work and Life
 *** [#A] Projects Keep Getting Deprecated Constantly
 *** [#A] Very Low Engagement
 - Very few people will use your projects. Even fewer will create issues or PRs

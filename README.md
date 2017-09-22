@@ -15,8 +15,8 @@
 </li>
 <li><a href="#sec-1-3">1.3. OpenSource Questions</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. How To Balance Workload Of Project Maintenance with Daily Work and Life</a></li>
-<li><a href="#sec-1-3-2">1.3.2. When New Projects Replaces Yours, Your Effort Will Be Wasted</a></li>
+<li><a href="#sec-1-3-1">1.3.1. When New Projects Replaces Yours, Your Effort Will Be Totally Wasted</a></li>
+<li><a href="#sec-1-3-2">1.3.2. How To Balance Project Maintenance Effort with Daily Work and Life</a></li>
 <li><a href="#sec-1-3-3">1.3.3. Projects Keep Getting Deprecated Constantly</a></li>
 <li><a href="#sec-1-3-4">1.3.4. Very Low Engagement</a></li>
 <li><a href="#sec-1-3-5">1.3.5. How I Get Credits For Contributing Others' Projects</a></li>
@@ -108,9 +108,9 @@ Link back repo to your blog posts
 
 ## OpenSource Questions<a id="sec-1-3" name="sec-1-3"></a>
 
-### How To Balance Workload Of Project Maintenance with Daily Work and Life<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### When New Projects Replaces Yours, Your Effort Will Be Totally Wasted<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-### When New Projects Replaces Yours, Your Effort Will Be Wasted<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### How To Balance Project Maintenance Effort with Daily Work and Life<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
 ### Projects Keep Getting Deprecated Constantly<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
