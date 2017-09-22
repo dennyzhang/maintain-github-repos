@@ -38,7 +38,9 @@ Because it can: improve quality, mitigate risk, increase trust, save us money, e
 [[https://github.com/zalando/zalando-howto-open-source][More links]]
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
-*** [Goal] Grow Technical Influence By Maintaining OpenSource Projects. But...
+I just feel maintaining some good github repos will help in many ways.
+
+But how to do that, I run into above problems.
 *** When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
 *** If Always Low Return, How To Persist The Journey In the Long Run
 *** How To Balance Project Maintenance Effort with Daily Work and Life
