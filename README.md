@@ -4,7 +4,13 @@
 <ul>
 <li><a href="#sec-1">1. Maintain Github Projects For Bigger Influence</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Principle</a></li>
+<li><a href="#sec-1-1">1.1. Principle</a>
+<ul>
+<li><a href="#sec-1-1-1">1.1.1. Only Provide New And Useful Things</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Support For A Long Run</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Don't Forget Value Stream</a></li>
+</ul>
+</li>
 <li><a href="#sec-1-2">1.2. Benefits</a>
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. Attention</a></li>
@@ -61,12 +67,20 @@
 
 ## Principle<a id="sec-1-1" name="sec-1-1"></a>
 
+### Only Provide New And Useful Things<a id="sec-1-1-1" name="sec-1-1-1"></a>
+
 -   Research First, and choose the right battle. Lots of problems have already been solved a hundred thousand times.
--   Only share things and code you personally use
+-   Only share things and code you personally use in your daily work
+
+### Support For A Long Run<a id="sec-1-1-2" name="sec-1-1-2"></a>
+
 -   Grow your fans in an organic way
--   Encourage people to take actions. Instead of moving away without doing anything.
--   Integrate opensource maintaince into your daily life
+-   Integrate opensource daily support with your daily life
 -   It's a long run. You need to balance the effort with your family life.
+
+### Don't Forget Value Stream<a id="sec-1-1-3" name="sec-1-1-3"></a>
+
+-   Encourage people to take actions. Instead of moving away without doing anything.
 
 ## Benefits<a id="sec-1-2" name="sec-1-2"></a>
 
