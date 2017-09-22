@@ -6,9 +6,9 @@
 <ul>
 <li><a href="#sec-1-1">1.1. Benefits</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Attention</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Skills</a></li>
-<li><a href="#sec-1-1-3">1.1.3. Influence</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Skills</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Influence</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Attention</a></li>
 <li><a href="#sec-1-1-4">1.1.4. Make Money</a></li>
 <li><a href="#sec-1-1-5">1.1.5. More resource</a></li>
 </ul>
@@ -69,22 +69,22 @@
 
 ## Benefits<a id="sec-1-1" name="sec-1-1"></a>
 
-### Attention<a id="sec-1-1-1" name="sec-1-1-1"></a>
+### Skills<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
--   Bring more traffic to your blog. Link back repo to your blog posts
--   Sponsored posts and affiliate
--   Paid writing for tech worlds
-
-### Skills<a id="sec-1-1-2" name="sec-1-1-2"></a>
-
--   Better job offer
 -   Meet people in common interests worldwide
 -   Improve skills at daily basis
+-   Better job offer
 
-### Influence<a id="sec-1-1-3" name="sec-1-1-3"></a>
+### Influence<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
 -   Get stars to show people have used your repos.
 -   Grow faster to be technical experts
+
+### Attention<a id="sec-1-1-3" name="sec-1-1-3"></a>
+
+-   Bring more traffic to my blog
+-   Sponsored posts and affiliate
+-   Paid writing for tech worlds
 
 ### Make Money<a id="sec-1-1-4" name="sec-1-1-4"></a>
 

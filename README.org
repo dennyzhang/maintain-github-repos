@@ -14,17 +14,17 @@
 - [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
 --------------------------------------------------------
 ** Benefits
-*** Attention
-- Bring more traffic to your blog. Link back repo to your blog posts
-- Sponsored posts and affiliate
-- Paid writing for tech worlds
 *** Skills
-- Better job offer
 - Meet people in common interests worldwide
 - Improve skills at daily basis
+- Better job offer
 *** Influence
 - Get stars to show people have used your repos.
 - Grow faster to be technical experts
+*** Attention
+- Bring more traffic to my blog
+- Sponsored posts and affiliate
+- Paid writing for tech worlds
 *** Make Money
 - Create dedicated repos: people can easily understand and reuse. And you can easily re-org
 - Code snippets are free, but solutions charge
