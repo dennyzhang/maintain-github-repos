@@ -15,13 +15,13 @@
 --------------------------------------------------------
 ** Puzzle In OpenSource
 *** Puzzle1
-Yes, contributing to opensource can improve my skill and help me to get a better job.
+Yes, contributing to opensource can improve my skill and help me to get job offers.
 
-But this opensource involvement may not last long.
+But this doesn't support my opensource involvement for a long run.
 
-I’m looking for a way to support me doing that in the long run. I mean for years.
+I’m looking for a way to support me doing it longer. I mean for years.
 
-I’m fine to do it without return for several years. But talking about even longer, it’s hard
+I’m fine to do it with no return for several years. But talking about even longer, I can't find the good incentives.
 *** Puzzle2
 Deriving a product from a public open source project looks quite promising.
 
