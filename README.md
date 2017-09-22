@@ -82,7 +82,7 @@ Deriving a product from a public open source project looks quite promising.
 
 I can provide premium online service as a business model.  
 
-But if mini projects, it's easy to be replaced.  
+But if they're only from mini or simple projects, it's easy to be replaced.  
 
 ## OpenSource Questions<a id="sec-1-2" name="sec-1-2"></a>
 

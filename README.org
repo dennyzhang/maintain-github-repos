@@ -27,7 +27,7 @@ Deriving a product from a public open source project looks quite promising.
 
 I can provide premium online service as a business model.
 
-But if mini projects, it's easy to be replaced.
+But if they're only from mini or simple projects, it's easy to be replaced.
 ** [#A] OpenSource Questions
 - When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
 - If Always Low Return, How To Persist The Journey In the Long Run
