@@ -44,7 +44,6 @@
 </div>
 </div>
 
-
 # Maintain Github Projects For Bigger Influence<a id="sec-1" name="sec-1"></a>
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
