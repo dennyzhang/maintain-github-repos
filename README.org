@@ -49,7 +49,7 @@ Link back repo to your blog posts
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
 *** When New Projects Replaces Yours, Your Effort Will Be Totally Wasted
-*** If Always Low Return, How To Persist The Journey In the Long Run.
+*** If Always Low Return, How To Persist The Journey In the Long Run
 *** How To Balance Project Maintenance Effort with Daily Work and Life
 *** [#A] Projects Keep Getting Deprecated Constantly
 *** [#A] Very Low Engagement
