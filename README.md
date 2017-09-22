@@ -72,10 +72,7 @@
 
 ### Attention<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
--   Bring more traffic to your blog.
-
-Link back repo to your blog posts  
-
+-   Bring more traffic to your blog. Link back repo to your blog posts
 -   Sponsored posts and affiliate
 -   Paid writing for tech worlds
 
