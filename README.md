@@ -81,7 +81,7 @@ I’m fine to do it with no return for several years. But talking about even lon
 
 If we can run opensource as a business, it can last for a long run.  
 
-But what're the opportunties for individuals or small teams in open source community?  
+But what are the opportunities for individuals or small teams in open source community?  
 
 ### Puzzle3<a id="sec-1-1-3" name="sec-1-1-3"></a>
 

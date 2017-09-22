@@ -25,7 +25,7 @@ I’m fine to do it with no return for several years. But talking about even lon
 *** Puzzle2
 If we can run opensource as a business, it can last for a long run.
 
-But what're the opportunties for individuals or small teams in open source community?
+But what are the opportunities for individuals or small teams in open source community?
 *** Puzzle3
 Deriving a product from a public open source project looks quite promising.
 
