@@ -49,7 +49,7 @@ Link back repo to your blog posts
 - Donation: [[https://www.patreon.com][Patreon]]
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
-*** When New Projects Replaces Yours, Your Effort Will Be Totally Wasted
+*** When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
 *** If Always Low Return, How To Persist The Journey In the Long Run
 *** How To Balance Project Maintenance Effort with Daily Work and Life
 *** [#A] Projects Keep Getting Deprecated Constantly

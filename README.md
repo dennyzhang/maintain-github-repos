@@ -21,7 +21,7 @@
 </li>
 <li><a href="#sec-1-3">1.3. OpenSource Questions</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. When New Projects Replaces Yours, Your Effort Will Be Totally Wasted</a></li>
+<li><a href="#sec-1-3-1">1.3.1. When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted</a></li>
 <li><a href="#sec-1-3-2">1.3.2. If Always Low Return, How To Persist The Journey In the Long Run</a></li>
 <li><a href="#sec-1-3-3">1.3.3. How To Balance Project Maintenance Effort with Daily Work and Life</a></li>
 <li><a href="#sec-1-3-4">1.3.4. Projects Keep Getting Deprecated Constantly</a></li>
@@ -119,7 +119,7 @@ Link back repo to your blog posts
 
 ## OpenSource Questions<a id="sec-1-3" name="sec-1-3"></a>
 
-### When New Projects Replaces Yours, Your Effort Will Be Totally Wasted<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
 ### If Always Low Return, How To Persist The Journey In the Long Run<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
