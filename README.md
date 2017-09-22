@@ -101,6 +101,7 @@ Link back repo to your blog posts
 -   Help hiring DevOps talents
 -   Technical writer
 -   Consulting projects
+-   Donation: [Patreon](https://www.patreon.com)
 
 ## OpenSource Questions<a id="sec-1-3" name="sec-1-3"></a>
 
