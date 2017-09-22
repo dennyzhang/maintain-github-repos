@@ -49,12 +49,12 @@ Link back repo to your blog posts
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
 *** When New Projects Replaces Yours, Your Effort Will Be Totally Wasted
+*** If Always Low Return, How To Persist The Journey In the Long Run.
 *** How To Balance Project Maintenance Effort with Daily Work and Life
 *** [#A] Projects Keep Getting Deprecated Constantly
 *** [#A] Very Low Engagement
 - Very few people will use your projects. Even fewer will create issues or PRs
 *** How I Get Credits For Contributing Others' Projects
-*** When Always Low Return, How To Persist The Journey In the Long Run.
 ** Routine activities
 *** Make Your Repos More Attractive
 Check this: https://github.com/DennyZhang/popular-github-template
