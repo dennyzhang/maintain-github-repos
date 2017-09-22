@@ -68,9 +68,13 @@
 
 ### Puzzle1<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
-I just feel maintaining some good github repos will help in many ways.  
+Yes, contributing to opensource can improve my skill and help me to get a better job.  
 
-What can support me for the long and lonely journey?  
+But this opensource involvement may not last long.  
+
+I’m looking for a way to support me doing that in the long run. I mean for years.  
+
+I’m fine to do it without return for several years. But talking about even longer, it’s hard  
 
 ### Puzzle2<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
