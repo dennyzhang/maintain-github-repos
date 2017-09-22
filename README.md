@@ -10,16 +10,7 @@
 <li><a href="#sec-1-1-2">1.1.2. Puzzle2</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. OpenSource Questions</a>
-<ul>
-<li><a href="#sec-1-2-1">1.2.1. When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted</a></li>
-<li><a href="#sec-1-2-2">1.2.2. If Always Low Return, How To Persist The Journey In the Long Run</a></li>
-<li><a href="#sec-1-2-3">1.2.3. How To Balance Project Maintenance Effort with Daily Work and Life</a></li>
-<li><a href="#sec-1-2-4">1.2.4. Projects Keep Getting Deprecated Constantly</a></li>
-<li><a href="#sec-1-2-5">1.2.5. Very Low Engagement, Very Few People Use Your Solutions</a></li>
-<li><a href="#sec-1-2-6">1.2.6. How I Get Credits For Contributing Others' Projects</a></li>
-</ul>
-</li>
+<li><a href="#sec-1-2">1.2. OpenSource Questions</a></li>
 <li><a href="#sec-1-3">1.3. Benefits</a>
 <ul>
 <li><a href="#sec-1-3-1">1.3.1. Skills</a></li>
@@ -91,19 +82,13 @@ But if mini projects, it's easy to be replaced.
 
 ## OpenSource Questions<a id="sec-1-2" name="sec-1-2"></a>
 
-### When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted<a id="sec-1-2-1" name="sec-1-2-1"></a>
-
-### If Always Low Return, How To Persist The Journey In the Long Run<a id="sec-1-2-2" name="sec-1-2-2"></a>
-
-### How To Balance Project Maintenance Effort with Daily Work and Life<a id="sec-1-2-3" name="sec-1-2-3"></a>
-
-### Projects Keep Getting Deprecated Constantly<a id="sec-1-2-4" name="sec-1-2-4"></a>
-
-### Very Low Engagement, Very Few People Use Your Solutions<a id="sec-1-2-5" name="sec-1-2-5"></a>
-
+-   When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
+-   If Always Low Return, How To Persist The Journey In the Long Run
+-   How To Balance Project Maintenance Effort with Daily Work and Life
+-   Projects Keep Getting Deprecated Constantly
+-   Very Low Engagement, Very Few People Use Your Solutions
 -   Very few people will use your projects. Even fewer will create issues or PRs
-
-### How I Get Credits For Contributing Others' Projects<a id="sec-1-2-6" name="sec-1-2-6"></a>
+-   How I Get Credits For Contributing Others' Projects
 
 ## Benefits<a id="sec-1-3" name="sec-1-3"></a>
 

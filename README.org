@@ -25,13 +25,13 @@ I can provide premium online service as a business model.
 
 But if mini projects, it's easy to be replaced.
 ** [#A] OpenSource Questions
-*** When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
-*** If Always Low Return, How To Persist The Journey In the Long Run
-*** How To Balance Project Maintenance Effort with Daily Work and Life
-*** [#A] Projects Keep Getting Deprecated Constantly
-*** [#A] Very Low Engagement, Very Few People Use Your Solutions
+- When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
+- If Always Low Return, How To Persist The Journey In the Long Run
+- How To Balance Project Maintenance Effort with Daily Work and Life
+- Projects Keep Getting Deprecated Constantly
+- Very Low Engagement, Very Few People Use Your Solutions
 - Very few people will use your projects. Even fewer will create issues or PRs
-*** How I Get Credits For Contributing Others' Projects
+- How I Get Credits For Contributing Others' Projects
 ** Benefits
 *** Skills
 - Meet people in common interests worldwide
