@@ -32,6 +32,8 @@ Deriving a product from a public open source project looks quite promising.
 I can provide premium online service as a business model.
 
 But if they're only from mini or simple projects, it's easy to be replaced.
+*** Puzzle4
+I don't believe in commerical softwares, but I find no suitable business models in open source.
 ** [#A] OpenSource Questions
 - When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
 - If Always Low Return, How To Persist The Journey In the Long Run

@@ -9,6 +9,7 @@
 <li><a href="#sec-1-1-1">1.1.1. Puzzle1</a></li>
 <li><a href="#sec-1-1-2">1.1.2. Puzzle2</a></li>
 <li><a href="#sec-1-1-3">1.1.3. Puzzle3</a></li>
+<li><a href="#sec-1-1-4">1.1.4. Puzzle4</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. OpenSource Questions</a></li>
@@ -90,6 +91,10 @@ Deriving a product from a public open source project looks quite promising.
 I can provide premium online service as a business model.  
 
 But if they're only from mini or simple projects, it's easy to be replaced.  
+
+### Puzzle4<a id="sec-1-1-4" name="sec-1-1-4"></a>
+
+I don't believe in commerical softwares, but I find no suitable business models in open source.  
 
 ## OpenSource Questions<a id="sec-1-2" name="sec-1-2"></a>
 
