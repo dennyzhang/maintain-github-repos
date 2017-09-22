@@ -15,9 +15,11 @@
 </li>
 <li><a href="#sec-1-3">1.3. OpenSource Questions</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Projects keep getting deprecated constantly</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Usually very low engagement</a></li>
-<li><a href="#sec-1-3-3">1.3.3. [Ownership] How I get credit contributing others' projects</a></li>
+<li><a href="#sec-1-3-1">1.3.1. How To Balance Workload Of Project Maintenance with Daily Work and Life</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Projects keep getting deprecated constantly</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Very Low Engagement</a></li>
+<li><a href="#sec-1-3-4">1.3.4. How I Get Credits For Contributing Others' Projects</a></li>
+<li><a href="#sec-1-3-5">1.3.5. When Always Low Return, How To Persist The Journey In the Long Run.</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Routine activities</a>
@@ -105,13 +107,17 @@ Link back repo to your blog posts
 
 ## OpenSource Questions<a id="sec-1-3" name="sec-1-3"></a>
 
-### Projects keep getting deprecated constantly<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### How To Balance Workload Of Project Maintenance with Daily Work and Life<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-### Usually very low engagement<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### Projects keep getting deprecated constantly<a id="sec-1-3-2" name="sec-1-3-2"></a>
+
+### Very Low Engagement<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
 -   Very few people will use your projects. Even fewer will create issues or PRs
 
-### [Ownership] How I get credit contributing others' projects<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### How I Get Credits For Contributing Others' Projects<a id="sec-1-3-4" name="sec-1-3-4"></a>
+
+### When Always Low Return, How To Persist The Journey In the Long Run.<a id="sec-1-3-5" name="sec-1-3-5"></a>
 
 ## Routine activities<a id="sec-1-4" name="sec-1-4"></a>
 

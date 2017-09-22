@@ -48,10 +48,12 @@ Link back repo to your blog posts
 - Donation: [[https://www.patreon.com][Patreon]]
 *** TODO How Redhat earn from open source
 ** [#A] OpenSource Questions
+*** How To Balance Workload Of Project Maintenance with Daily Work and Life
 *** [#A] Projects keep getting deprecated constantly
-*** [#A] Usually very low engagement
+*** [#A] Very Low Engagement
 - Very few people will use your projects. Even fewer will create issues or PRs
-*** [Ownership] How I get credit contributing others' projects
+*** How I Get Credits For Contributing Others' Projects
+*** When Always Low Return, How To Persist The Journey In the Long Run.
 ** Routine activities
 *** Make Your Repos More Attractive
 Check this: https://github.com/DennyZhang/popular-github-template
