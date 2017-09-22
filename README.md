@@ -61,10 +61,7 @@
 
 ## Principle<a id="sec-1-1" name="sec-1-1"></a>
 
--   Research First, and choose the right battle.
-
-Lots of problems have already been solved a hundred thousand times.  
-
+-   Research First, and choose the right battle. Lots of problems have already been solved a hundred thousand times.
 -   Only share things and code you personally use
 -   Grow your fans in an organic way
 -   Encourage people to take actions. Instead of moving away without doing anything.
