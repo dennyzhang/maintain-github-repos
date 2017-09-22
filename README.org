@@ -14,16 +14,24 @@
 - [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
 --------------------------------------------------------
 ** Puzzle In OpenSource
-*** Puzzle1: 
+*** Puzzle1
 I just feel maintaining some good github repos will help in many ways.
 
 What can support me for the long and lonely journey?
-*** Puzzle2:
+*** Puzzle2
 Deriving a product from a public open source project looks quite promising.
 
 I can provide premium online service as a business model.
 
 But if mini projects, it's easy to be replaced.
+** [#A] OpenSource Questions
+*** When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
+*** If Always Low Return, How To Persist The Journey In the Long Run
+*** How To Balance Project Maintenance Effort with Daily Work and Life
+*** [#A] Projects Keep Getting Deprecated Constantly
+*** [#A] Very Low Engagement, Very Few People Use Your Solutions
+- Very few people will use your projects. Even fewer will create issues or PRs
+*** How I Get Credits For Contributing Others' Projects
 ** Benefits
 *** Skills
 - Meet people in common interests worldwide
@@ -48,14 +56,6 @@ But if mini projects, it's easy to be replaced.
 Because it can: improve quality, mitigate risk, increase trust, save us money, expand our technology choices, be fun, enable us to give back to the community, strengthen our tech brand, and attract talent.
 [[https://github.com/zalando/zalando-howto-open-source][More links]]
 *** TODO How Redhat earn from open source
-** [#A] OpenSource Questions
-*** When New Projects Replaces Yours, Most Of Your Effort Will Be Wasted
-*** If Always Low Return, How To Persist The Journey In the Long Run
-*** How To Balance Project Maintenance Effort with Daily Work and Life
-*** [#A] Projects Keep Getting Deprecated Constantly
-*** [#A] Very Low Engagement, Very Few People Use Your Solutions
-- Very few people will use your projects. Even fewer will create issues or PRs
-*** How I Get Credits For Contributing Others' Projects
 ** [#A] Principle
 *** Only Provide New And Useful Things
 - Research First, and choose the right battle. Lots of problems have already been solved a hundred thousand times.
