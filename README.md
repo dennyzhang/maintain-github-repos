@@ -47,6 +47,11 @@
 <li><a href="#sec-1-8-3">1.8.3. Web Pages</a></li>
 </ul>
 </li>
+<li><a href="#sec-1-9">1.9. Doc Templates</a>
+<ul>
+<li><a href="#sec-1-9-1">1.9.1. Doc: Invite people into slack</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -56,10 +61,10 @@
 
 # Maintain Github Projects For Bigger Influence<a id="sec-1" name="sec-1"></a>
 
-<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/linkedin.png" alt="linkedin" /></a>
-<a href="https://github.com/DennyZhang"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png" alt="github" /></a>
-<a href="https://goo.gl/ozDDyL"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
-<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
+<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/maintain-github-repos/issues>) or star [this github repo](<https://github.com/DennyZhang/maintain-github-repos>)
 -   [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
@@ -208,3 +213,20 @@ This gives people more confidence that your repos are active. See [sample](https
 
 -   Web Page: [How To Get Thousands of Stars on Your Github Project](https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2)
 -   Effectively Technical Writing In GitHub: <https://www.dennyzhang.com/github_wiki>
+
+## Doc Templates<a id="sec-1-9" name="sec-1-9"></a>
+
+### Doc: Invite people into slack<a id="sec-1-9-1" name="sec-1-9-1"></a>
+
+-   Introduce slack group
+
+    Thanks for trying the GitHub Repo! Let me check.
+    
+    Slack brings people closer. Would you join our slack group?
+    
+    #opensource channel is created for this kind of support.
+    
+    Feel free to skip, if you're too busy
+    Find more about the slack group: https://goo.gl/ozDDyL
+    
+    Cheers!

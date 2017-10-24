@@ -125,6 +125,24 @@ https://www.phodal.com/blog/why-you-should-work-hard-with-github/
 *** Web Pages
 - Web Page: [[https://blog.cwrichardkim.com/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2][How To Get Thousands of Stars on Your Github Project]]
 - Effectively Technical Writing In GitHub: https://www.dennyzhang.com/github_wiki
+** Doc Templates
+*** Doc: Invite people into slack
+- Introduce slack group
+#+BEGIN_EXAMPLE
+Thanks for trying the GitHub Repo! Let me check.
+
+Slack brings people closer. 
+
+We have an active Slack group, and #opensource channel is created for this kind of supports.
+
+Do you want to join?
+
+Feel free to skip, if you're too busy.
+
+Slack link: https://goo.gl/ozDDyL
+
+Cheers!
+#+END_EXAMPLE
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
 ** TODO How to attract new contributors to your open source project
 https://medium.freecodecamp.org/how-to-attract-new-contributors-to-your-open-source-project-46f8b791d787
