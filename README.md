@@ -222,11 +222,14 @@ This gives people more confidence that your repos are active. See [sample](https
 
     Thanks for trying the GitHub Repo! Let me check.
     
-    Slack brings people closer. Would you join our slack group?
+    Slack brings people closer. 
     
-    #opensource channel is created for this kind of support.
+    We have an active Slack group, and #opensource channel is created for this kind of supports.
     
-    Feel free to skip, if you're too busy
-    Find more about the slack group: https://goo.gl/ozDDyL
+    Do you want to join?
+    
+    Feel free to skip, if you're too busy.
+    
+    Slack link: https://goo.gl/ozDDyL
     
     Cheers!
