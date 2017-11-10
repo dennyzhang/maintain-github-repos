@@ -230,6 +230,6 @@ This gives people more confidence that your repos are active. See [sample](https
     
     Feel free to skip, if you're too busy.
     
-    Slack link: https://goo.gl/ozDDyL
+    Slack link: https://www.dennyzhang.com/slack
     
     Cheers!

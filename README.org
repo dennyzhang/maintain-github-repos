@@ -139,7 +139,7 @@ Do you want to join?
 
 Feel free to skip, if you're too busy.
 
-Slack link: https://goo.gl/ozDDyL
+Slack link: https://www.dennyzhang.com/slack
 
 Cheers!
 #+END_EXAMPLE
