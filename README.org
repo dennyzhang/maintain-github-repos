@@ -1,5 +1,5 @@
 #+TAGS: noexport(n)
-#+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
+#+AUTHOR: dennyzhang.com (https://www.dennyzhang.com/contact)
 #+OPTIONS: toc:3 \n:t ^:nil creator:t d:nil
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Maintain Github Projects For Bigger Influence
